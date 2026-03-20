@@ -234,6 +234,29 @@ def main():
             WHERE c.status = 'ATIVO'
         """, "Buscando total de cadastrados ativos no app")
 
+        # --- Novos cadastros no app durante o periodo da promocao ---
+        df_cadastrados["data_cadastro"] = pd.to_datetime(df_cadastrados["data_cadastro"])
+        promo_inicio_date = promo_inicio.normalize()
+        data_ate_date = pd.to_datetime(data_ate)
+        novos_cadastros = df_cadastrados[
+            (df_cadastrados["data_cadastro"] >= promo_inicio_date) &
+            (df_cadastrados["data_cadastro"] <= data_ate_date)
+        ]["cliente_id"].unique()
+        print(f"  Novos cadastros no periodo: {len(novos_cadastros)}")
+
+        # Atribuir shopping ao novo cadastro pelo ultimo acesso no app
+        novos_cad_por_shopping = pd.Series(dtype=int)
+        if len(novos_cadastros) > 0:
+            ids_str = ",".join(str(int(i)) for i in novos_cadastros)
+            df_acesso = query_to_df(cur, f"""
+                SELECT cliente_id, shopping_id, time,
+                       ROW_NUMBER() OVER (PARTITION BY cliente_id ORDER BY time DESC) AS rn
+                FROM BRONZE.BRZ_AJFANS_LOG_ACESSO_APP
+                WHERE cliente_id IN ({ids_str})
+            """, "Buscando ultimo acesso dos novos cadastros")
+            df_acesso = df_acesso[df_acesso["rn"] == 1]
+            novos_cad_por_shopping = df_acesso.groupby("shopping_id")["cliente_id"].nunique()
+
     finally:
         conn.close()
         print("\n[OK] Conexao fechada")
@@ -251,21 +274,6 @@ def main():
     clientes_promo["tipo"] = clientes_promo["primeiro_cupom"].apply(
         lambda x: "Novo" if x >= promo_inicio else "Recorrente"
     )
-
-    # --- Novos cadastros no app durante o periodo da promocao ---
-    df_cadastrados["data_cadastro"] = pd.to_datetime(df_cadastrados["data_cadastro"])
-    promo_inicio_date = promo_inicio.normalize()
-    data_ate_date = pd.to_datetime(data_ate)
-    novos_cadastros = df_cadastrados[
-        (df_cadastrados["data_cadastro"] >= promo_inicio_date) &
-        (df_cadastrados["data_cadastro"] <= data_ate_date)
-    ]["cliente_id"].unique()
-    print(f"  Novos cadastros no periodo: {len(novos_cadastros)}")
-
-    # Atribuir shopping ao novo cadastro pelo primeiro cupom lancado no periodo
-    novos_cad_cupom = df_cupons[df_cupons["cliente_id"].isin(novos_cadastros)]
-    primeiro_cupom_novo = novos_cad_cupom.sort_values("data_envio").drop_duplicates("cliente_id", keep="first")
-    novos_cad_por_shopping = primeiro_cupom_novo.groupby("shopping_id")["cliente_id"].nunique()
 
     # --- KPIs por shopping ---
     kpis = []
