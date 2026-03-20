@@ -52,6 +52,7 @@ st.markdown("""
         vertical-align: super;
     }
     abbr:hover {opacity: 1;}
+    abbr.ast {font-size: 1.1rem; opacity: 0.8; vertical-align: baseline; font-weight: bold;}
 </style>
 """, unsafe_allow_html=True)
 
@@ -175,7 +176,7 @@ def render_tabela_kpis(df_kpis, info):
             soma_shops = int(shoppings[col].sum())
             total_int = int(total[col])
             if soma_shops != total_int:
-                total_val += f' <abbr title="Total de clientes únicos ({total_int}). A soma dos shoppings é {soma_shops} porque {soma_shops - total_int} cliente(s) compraram em mais de um shopping.">*</abbr>'
+                total_val += f' <abbr class="ast" title="Total de clientes únicos ({total_int}). A soma dos shoppings é {soma_shops} porque {soma_shops - total_int} cliente(s) compraram em mais de um shopping.">*</abbr>'
         row += f" {total_val} |"
         rows.append(row)
 
