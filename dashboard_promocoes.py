@@ -44,6 +44,14 @@ st.markdown("""
     .kpi-table td {text-align: right !important; padding: 6px 12px !important;}
     .kpi-table td:first-child {text-align: left !important; font-weight: bold;}
     div[data-testid="stExpander"] details summary span {font-weight: 600;}
+    abbr {
+        text-decoration: none !important;
+        cursor: help;
+        font-size: 0.75rem;
+        opacity: 0.5;
+        vertical-align: super;
+    }
+    abbr:hover {opacity: 1;}
 </style>
 """, unsafe_allow_html=True)
 
@@ -92,24 +100,38 @@ def render_tabela_kpis(df_kpis, info):
     ordem = ["NK", "BS", "GS", "NR", "CS", "NS"]
     colunas = [s for s in ordem if s in shoppings["shopping_sigla"].values]
 
-    # Montar dados
+    # Montar dados: (label, coluna, tipo, tooltip)
     metricas = [
-        ("Clientes Novos Cadastro", "clientes_novos_cadastro", "int"),
-        ("Clientes Novos Cupons", "clientes_novos_cupom", "int"),
-        ("Clientes Recorrentes", "clientes_recorrentes", "int"),
-        ("Clientes Totais", "clientes_totais", "int"),
-        ("Cupons Lancados", "cupons_lancados", "int"),
-        ("R$", "valor_total", "brl"),
-        ("TM Cliente", "tm_cliente", "brl_sm"),
-        ("TM Cupom", "tm_cupom", "brl_sm"),
-        ("", "", "sep"),
-        ("Lojas na Promocao", "lojas_na_promocao", "int"),
-        ("Lojas c/ Cupons Lancados", "lojas_com_cupons", "int"),
-        ("Taxa de Conversao", "taxa_conversao_lojas", "pct"),
-        ("", "", "sep"),
-        ("Pontos Utilizados", "pontos_utilizados", "int"),
-        ("Numeros da Sorte", "numeros_sorte", "int"),
-        ("Clientes que Resgataram", "clientes_resgataram", "int"),
+        ("Clientes Novos Cadastro", "clientes_novos_cadastro", "int",
+         "Clientes que criaram conta no app durante o periodo da promocao. Shopping atribuido pelo ultimo acesso no app."),
+        ("Clientes Novos Cupons", "clientes_novos_cupom", "int",
+         "Clientes que lancaram seu primeiro cupom validado de todos os tempos durante a promocao."),
+        ("Clientes Recorrentes", "clientes_recorrentes", "int",
+         "Clientes que ja tinham cupons validados antes do inicio da promocao."),
+        ("Clientes Totais", "clientes_totais", "int",
+         "Total de clientes unicos que lancaram pelo menos 1 cupom validado durante a promocao."),
+        ("Cupons Lancados", "cupons_lancados", "int",
+         "Quantidade total de cupons com status Validado no periodo."),
+        ("R$", "valor_total", "brl",
+         "Soma do valor de compra de todos os cupons validados no periodo."),
+        ("TM Cliente", "tm_cliente", "brl_sm",
+         "Ticket Medio por Cliente = Valor Total / Clientes Totais."),
+        ("TM Cupom", "tm_cupom", "brl_sm",
+         "Ticket Medio por Cupom = Valor Total / Cupons Lancados."),
+        ("", "", "sep", ""),
+        ("Lojas na Promocao", "lojas_na_promocao", "int",
+         "Total de lojas cadastradas no shopping (todas participam da promocao)."),
+        ("Lojas c/ Cupons Lancados", "lojas_com_cupons", "int",
+         "Lojas que tiveram pelo menos 1 cupom validado durante o periodo."),
+        ("Taxa de Conversao", "taxa_conversao_lojas", "pct",
+         "Percentual de lojas com cupons lancados em relacao ao total de lojas do shopping."),
+        ("", "", "sep", ""),
+        ("Pontos Utilizados", "pontos_utilizados", "int",
+         "Total de pontos resgatados pelos clientes para gerar numeros da sorte."),
+        ("Numeros da Sorte", "numeros_sorte", "int",
+         "Total de numeros da sorte gerados. Cada 100 pontos = 1 numero da sorte."),
+        ("Clientes que Resgataram", "clientes_resgataram", "int",
+         "Clientes unicos que realizaram pelo menos 1 resgate de pontos por numeros da sorte."),
     ]
 
     def fmt(val, tipo):
@@ -136,11 +158,12 @@ def render_tabela_kpis(df_kpis, info):
 
     # Rows
     rows = []
-    for label, col, tipo in metricas:
+    for label, col, tipo, tooltip in metricas:
         if tipo == "sep":
             rows.append("|" + " |" * (len(colunas) + 2))
             continue
-        row = f"| **{label}** |"
+        help_icon = f' <abbr title="{tooltip}">❓</abbr>' if tooltip else ""
+        row = f"| **{label}**{help_icon} |"
         for s in colunas:
             sub = shoppings[shoppings["shopping_sigla"] == s]
             val = sub[col].iloc[0] if len(sub) > 0 and col else 0
@@ -149,7 +172,7 @@ def render_tabela_kpis(df_kpis, info):
         rows.append(row)
 
     tabela = header + "\n" + sep_line + "\n" + "\n".join(rows)
-    st.markdown(tabela)
+    st.markdown(tabela, unsafe_allow_html=True)
 
 
 def render_serie_temporal(dados, info):
