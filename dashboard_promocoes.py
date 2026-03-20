@@ -30,7 +30,7 @@ st.markdown("""
         border-radius: 8px;
         padding: 12px 16px;
         text-align: center;
-        height: 100%;
+        min-height: 120px;
         display: flex;
         flex-direction: column;
         justify-content: center;
