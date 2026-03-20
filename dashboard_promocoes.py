@@ -252,12 +252,17 @@ def render_resgates(dados, info):
 
     total_resgates = int(df_dia["resgates"].sum()) if len(df_dia) > 0 else 0
     media_pts = total["pontos_utilizados"] / total["clientes_resgataram"] if total["clientes_resgataram"] > 0 else 0
+    kpis_shop = df_kpis[df_kpis["shopping_sigla"] != "TOTAL"]
+    soma_cli_shop = int(kpis_shop["clientes_resgataram"].sum())
+    cli_unicos = int(total["clientes_resgataram"])
+    diff_cli = soma_cli_shop - cli_unicos
 
     c1, c2, c3, c4, c5 = st.columns(5)
     c1.metric("Total de Resgates", f"{total_resgates:,}",
               help="Quantidade total de operações de resgate realizadas. Um cliente pode resgatar várias vezes.")
-    c2.metric("Clientes Únicos", f"{int(total['clientes_resgataram']):,}",
-              help="Clientes únicos que realizaram pelo menos 1 resgate de pontos por números da sorte.")
+    help_cli = f"Clientes únicos que realizaram pelo menos 1 resgate. A soma por shopping dá {soma_cli_shop} porque {diff_cli} cliente(s) resgataram em mais de um shopping." if diff_cli > 0 else "Clientes únicos que realizaram pelo menos 1 resgate de pontos por números da sorte."
+    c2.metric("Clientes Únicos", f"{cli_unicos:,} ({soma_cli_shop} por shopping)",
+              help=help_cli)
     c3.metric("Pontos Utilizados", f"{int(total['pontos_utilizados']):,}",
               help="Total de pontos resgatados pelos clientes. Calculado como Números da Sorte × 100.")
     c4.metric("Números da Sorte", f"{int(total['numeros_sorte']):,}",
