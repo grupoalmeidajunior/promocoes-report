@@ -84,3 +84,45 @@ jobs:
             echo "- **Promocao:** $(python3 -c 'import json; d=json.load(open("dados/promocao_info.json")); print(d["titulo"])')" >> $GITHUB_STEP_SUMMARY
             echo "- **Dados ate:** $(python3 -c 'import json; d=json.load(open("dados/promocao_info.json")); print(d["dados_ate"])')" >> $GITHUB_STEP_SUMMARY
           fi
+
+  notificar-whatsapp:
+    runs-on: self-hosted
+    needs: atualizar-dados
+    if: always()
+
+    env:
+      WA_GATEWAY_URL: "http://localhost:3001"
+      WA_GROUP_ID: "120363408855201409@g.us"
+
+    steps:
+      - name: Checkout repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Instalar requests
+        shell: powershell
+        run: pip install requests
+
+      - name: Notificar sucesso
+        if: needs.atualizar-dados.result == 'success'
+        shell: powershell
+        run: |
+          $detalhes = ""
+          if (Test-Path "dados/promocao_info.json") {
+            $info = Get-Content "dados/promocao_info.json" | ConvertFrom-Json
+            $detalhes = "Dados ate $($info.dados_ate)"
+          }
+          if ($detalhes) {
+            python scripts/notificar_whatsapp.py --dashboard "Promocoes Report" --status sucesso --detalhes $detalhes
+          } else {
+            python scripts/notificar_whatsapp.py --dashboard "Promocoes Report" --status sucesso
+          }
+
+      - name: Notificar erro
+        if: needs.atualizar-dados.result == 'failure'
+        shell: powershell
+        run: python scripts/notificar_whatsapp.py --dashboard "Promocoes Report" --status erro
