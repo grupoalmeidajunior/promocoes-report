@@ -37,7 +37,9 @@ st.markdown("""
     }
     [data-testid="stMetric"] label {font-size: 0.8rem !important; justify-content: center;}
     [data-testid="stMetric"] [data-testid="stMetricValue"] {justify-content: center;}
-    [data-testid="stMetric"] [data-testid="stMetricDelta"] {justify-content: center;}
+    [data-testid="stMetric"] [data-testid="stMetricDelta"] {justify-content: center; font-size: 0.7rem !important; line-height: 1.1 !important;}
+    [data-testid="stMetric"] [data-testid="stMetricDelta"] svg {display: none;}
+    [data-testid="stHorizontalBlock"] {align-items: stretch;}
     .promo-header {
         background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
         color: white;
