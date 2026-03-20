@@ -29,8 +29,15 @@ st.markdown("""
         border: 1px solid #e9ecef;
         border-radius: 8px;
         padding: 12px 16px;
+        text-align: center;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
     }
-    [data-testid="stMetric"] label {font-size: 0.8rem !important;}
+    [data-testid="stMetric"] label {font-size: 0.8rem !important; justify-content: center;}
+    [data-testid="stMetric"] [data-testid="stMetricValue"] {justify-content: center;}
+    [data-testid="stMetric"] [data-testid="stMetricDelta"] {justify-content: center;}
     .promo-header {
         background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
         color: white;
