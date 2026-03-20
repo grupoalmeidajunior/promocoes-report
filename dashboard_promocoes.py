@@ -261,8 +261,10 @@ def render_resgates(dados, info):
     c1.metric("Total de Resgates", f"{total_resgates:,}",
               help="Quantidade total de operações de resgate realizadas. Um cliente pode resgatar várias vezes.")
     help_cli = f"Clientes únicos que realizaram pelo menos 1 resgate. A soma por shopping dá {soma_cli_shop} porque {diff_cli} cliente(s) resgataram em mais de um shopping." if diff_cli > 0 else "Clientes únicos que realizaram pelo menos 1 resgate de pontos por números da sorte."
-    c2.metric("Clientes Únicos", f"{cli_unicos:,} ({soma_cli_shop} por shopping)",
+    c2.metric("Clientes Únicos", f"{cli_unicos:,}",
               help=help_cli)
+    if diff_cli > 0:
+        c2.caption(f"({soma_cli_shop} por shopping · {diff_cli} em +1)")
     c3.metric("Pontos Utilizados", f"{int(total['pontos_utilizados']):,}",
               help="Total de pontos resgatados pelos clientes. Calculado como Números da Sorte × 100.")
     c4.metric("Números da Sorte", f"{int(total['numeros_sorte']):,}",
