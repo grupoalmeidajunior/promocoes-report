@@ -1,0 +1,11 @@
+{
+  "data_auditoria": "2026-03-20 13:20",
+  "total_testes": 88,
+  "pass": 86,
+  "fail": 2,
+  "alertas": [
+    "[Resgates] pontos_totais = saldo_anterior - saldo_posterior: violacoes: 3, exemplo: [{'id': 44, 'pontos_totais': 300, 'cliente_saldo_anterior': 3077, 'cliente_saldo_posterior': 77}, {'id': 152, 'pontos_totais': 3500, 'cliente_saldo_anterior': 4585, 'cliente_saldo_posterior': 4545}, {'id': 164, 'pontos_totais': 191, 'cliente_saldo_anterior': 16363, 'cliente_saldo_posterior': 15158}]",
+    "[Resgates] quantidade_numeros = ceil(pontos/100): 68.9% corretos: violacoes: 87",
+    "[Anomalias] 17 resgates antes da promo: datas ['2026-03-16', '2026-03-17', '2026-03-18']"
+  ]
+}
