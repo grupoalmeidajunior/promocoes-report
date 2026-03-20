@@ -229,7 +229,7 @@ def main():
             SELECT
                 c.id AS cliente_id,
                 c.status,
-                c.time AS data_cadastro
+                c.data_cadastro
             FROM BRONZE.BRZ_AJFANS_CLIENTES c
             WHERE c.status = 'ATIVO'
         """, "Buscando total de cadastrados ativos no app")
@@ -253,11 +253,12 @@ def main():
     )
 
     # --- Novos cadastros no app durante o periodo da promocao ---
-    df_cadastrados["data_cadastro"] = pd.to_datetime(df_cadastrados["data_cadastro"]).dt.tz_localize(None)
-    data_ate_dt = pd.to_datetime(data_ate) + pd.Timedelta(days=1)  # ate fim do dia
+    df_cadastrados["data_cadastro"] = pd.to_datetime(df_cadastrados["data_cadastro"])
+    promo_inicio_date = promo_inicio.normalize()
+    data_ate_date = pd.to_datetime(data_ate)
     novos_cadastros = df_cadastrados[
-        (df_cadastrados["data_cadastro"] >= promo_inicio) &
-        (df_cadastrados["data_cadastro"] < data_ate_dt)
+        (df_cadastrados["data_cadastro"] >= promo_inicio_date) &
+        (df_cadastrados["data_cadastro"] <= data_ate_date)
     ]["cliente_id"].unique()
     print(f"  Novos cadastros no periodo: {len(novos_cadastros)}")
 
