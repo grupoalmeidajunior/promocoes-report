@@ -172,15 +172,17 @@ def main():
         df_primeiro["primeiro_cupom"] = pd.to_datetime(df_primeiro["primeiro_cupom"]).dt.tz_localize(None)
 
         # ============================================================
-        # 4. Lojas por shopping (hardcode da planilha lojas_fidelidade até ajustar Snowflake)
+        # 4. Lojas por shopping (ativas com fidelidade)
         # ============================================================
-        # TODO: voltar a usar query Snowflake quando fidelidade estiver 100% correto no BD
-        # Valores da planilha lojas_fidelidade_PROMO IPHONES_2026.xlsx
-        df_lojas = pd.DataFrame({
-            "shopping_id": [1, 2, 3, 4, 5, 6],
-            "total_lojas": [170, 210, 140, 91, 162, 133],
-        })
-        print(f"[INFO] Lojas por shopping (hardcode planilha): {df_lojas['total_lojas'].sum()} total")
+        df_lojas = query_to_df(cur, """
+            SELECT shopping_id, COUNT(DISTINCT cnpj) AS total_lojas
+            FROM BRONZE.BRZ_AJFANS_SHOPPING_LOJA
+            WHERE cnpj IS NOT NULL AND cnpj <> ''
+              AND fidelidade = 'SIM'
+              AND status = 'ATIVO'
+            GROUP BY shopping_id
+            ORDER BY shopping_id
+        """, "Contando lojas por shopping (ativas, fidelidade = SIM)")
 
         # ============================================================
         # 5. Resgates de pontos (numeros da sorte)
