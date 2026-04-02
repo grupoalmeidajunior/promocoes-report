@@ -2,8 +2,8 @@ name: Atualizar Dados Promocao
 
 on:
   schedule:
-    # Todo dia as 00:15 horario de Brasilia (UTC-3 = 03:15 UTC)
-    - cron: '15 3 * * *'
+    # Todo dia as 06:00 horario de Brasilia (UTC-3 = 09:00 UTC)
+    - cron: '0 9 * * *'
   workflow_dispatch:
 
 env:
