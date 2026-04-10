@@ -1,261 +1,263 @@
 ﻿shopping_id,loja_nome,segmento,cupons,clientes,valor_total,ticket_medio,shopping_sigla,ranking
-1,Renner,Moda,329,255,87096.63,264.73,CS,1
-1,Nike Unite,Moda,141,111,63459.47,450.07,CS,2
-1,Lojas Americanas,Eletrodomésticos,462,295,42850.37,92.75,CS,3
-1,Centauro,Esportes,102,90,36021.27,353.15,CS,4
-1,Óticas Carol,Ótica,17,16,35730.1,2101.77,CS,5
-1,C&A,Moda,137,117,34585.54,252.45,CS,6
-1,Decathlon,Esportes,121,105,33387.28,275.93,CS,7
+1,Renner,Moda,342,267,90254.11,263.9,CS,1
+1,Nike Unite,Moda,144,112,64001.45,444.45,CS,2
+1,Lojas Americanas,Eletrodomésticos,487,305,43915.37,90.18,CS,3
+1,Óticas Carol,Ótica,19,17,40259.1,2118.9,CS,4
+1,Centauro,Esportes,103,91,36441.24,353.8,CS,5
+1,C&A,Moda,142,122,36064.41,253.97,CS,6
+1,Decathlon,Esportes,129,112,35291.1,273.57,CS,7
 1,Samsung,Eletrônicos,8,4,32903.0,4112.88,CS,8
 1,Empório Du Homem,Moda,33,27,29597.86,896.9,CS,9
-1,Riachuelo,Moda,132,111,28780.27,218.03,CS,10
+1,Riachuelo,Moda,137,115,29113.2,212.51,CS,10
 1,Maze Vale Comercio LTDA,Moda,30,25,27708.27,923.61,CS,11
-1,Vivara,Joalheria,17,15,27556.39,1620.96,CS,12
-1,Vivo,Telefonia,4,4,24775.0,6193.75,CS,13
-1,Magazine Luiza,Eletrodomésticos,15,7,20757.1,1383.81,CS,14
-1,Carioca Calçados,Calçados,57,53,20529.15,360.16,CS,15
-1,Panvel Farmácias,Farmácias,210,164,19169.97,91.29,CS,16
-1,Kalunga,Papelaria,147,115,18151.2,123.48,CS,17
-1,Clifield,Moda,22,22,17315.35,787.06,CS,18
-1,Audithorium Menswear,Moda,21,19,16907.96,805.14,CS,19
-1,Live!,Moda Feminina,26,26,15987.39,614.9,CS,20
-1,IDéli oui,Beleza e Bem-estar,42,35,15765.78,375.38,CS,21
-1,Arezzo,Calçados,26,24,14905.57,573.29,CS,22
-1,Brasil Cacau,Gastronomia,125,99,14245.53,113.96,CS,23
-1,Livrarias Catarinense,Livrarias,148,121,14211.84,96.03,CS,24
-1,Youcom,Moda,40,33,14159.5,353.99,CS,25
-1,Beagle,Moda,23,17,14027.79,609.9,CS,26
+1,Vivara,Joalheria,19,17,27560.53,1450.55,CS,12
+1,Vivo,Telefonia,5,4,25674.0,5134.8,CS,13
+1,Carioca Calçados,Calçados,60,56,22091.11,368.19,CS,14
+1,Magazine Luiza,Eletrodomésticos,19,8,21416.6,1127.19,CS,15
+1,Live!,Moda Feminina,30,30,20444.19,681.47,CS,16
+1,Panvel Farmácias,Farmácias,222,172,20178.52,90.89,CS,17
+1,Clifield,Moda,25,24,20022.25,800.89,CS,18
+1,Kalunga,Papelaria,158,123,18697.5,118.34,CS,19
+1,IDéli oui,Beleza e Bem-estar,42,35,18059.48,429.99,CS,20
+1,Audithorium Menswear,Moda,21,19,16907.96,805.14,CS,21
+1,Arezzo,Calçados,29,26,16123.22,555.97,CS,22
+1,Youcom,Moda,42,35,15478.4,368.53,CS,23
+1,Beagle,Moda,24,18,15106.79,629.45,CS,24
+1,Livrarias Catarinense,Livrarias,156,129,15066.68,96.58,CS,25
+1,Brasil Cacau,Gastronomia,129,103,14455.32,112.06,CS,26
 1,TIM,Telefonia,4,4,13944.0,3486.0,CS,27
-1,Kopenhagen,Gastronomia,62,48,13814.76,222.82,CS,28
-1,Usaflex,Calçados,37,14,13571.62,366.8,CS,29
-1,Tommy Hilfiger,Moda,13,9,13496.0,1038.15,CS,30
-1,Leo Cosméticos,Beleza e Bem-estar,182,153,13345.54,73.33,CS,31
-1,Polishop,Eletrodomésticos,10,4,12754.48,1275.45,CS,32
-1,Lua Luá,Moda,24,16,12341.23,514.22,CS,33
-1,Cobasi,Pets,103,83,12106.67,117.54,CS,34
-1,Hope,Moda,34,31,11781.06,346.5,CS,35
-1,Studio Z,Calçados,73,67,11369.64,155.75,CS,36
-1,Madero,Gastronomia,61,53,10741.98,176.1,CS,37
+1,Usaflex,Calçados,38,14,13864.61,364.86,CS,28
+1,Kopenhagen,Gastronomia,62,48,13814.76,222.82,CS,29
+1,Leo Cosméticos,Beleza e Bem-estar,190,160,13767.54,72.46,CS,30
+1,Tommy Hilfiger,Moda,13,9,13496.0,1038.15,CS,31
+1,Hope,Moda,36,32,12891.06,358.08,CS,32
+1,Polishop,Eletrodomésticos,10,4,12754.48,1275.45,CS,33
+1,Cobasi,Pets,108,88,12676.22,117.37,CS,34
+1,Lua Luá,Moda,25,17,12366.13,494.65,CS,35
+1,Studio Z,Calçados,76,68,12158.61,159.98,CS,36
+1,Madero,Gastronomia,67,58,11175.34,166.8,CS,37
 1,Claro,Telefonia,2,2,10221.64,5110.82,CS,38
-1,Cotton On,Moda,39,29,9835.39,252.19,CS,39
+1,Cotton On,Moda,42,32,10146.29,241.58,CS,39
 1,Ótica Diniz,Ótica,7,7,9767.8,1395.4,CS,40
-1,O Boticário,Beleza e Bem-estar,65,51,9405.01,144.69,CS,41
+1,O Boticário,Beleza e Bem-estar,68,53,9753.88,143.44,CS,41
 1,Damyller,Moda,13,13,9212.4,708.65,CS,42
-1,Me.Linda,Beleza e Bem-estar,69,61,8877.69,128.66,CS,43
-1,McDonald's,Gastronomia,143,109,8729.61,61.05,CS,44
-1,Pernambucanas,Moda,61,46,8345.4,136.81,CS,45
-1,Hering Store,Moda,28,23,8210.37,293.23,CS,46
-1,Ri Happy Baby,Infantil,45,37,8064.75,179.22,CS,47
-1,Bacio di Latte,Gastronomia,140,96,8043.12,57.45,CS,48
+1,Me.Linda,Beleza e Bem-estar,70,62,9024.69,128.92,CS,43
+1,McDonald's,Gastronomia,148,111,8906.01,60.18,CS,44
+1,Pernambucanas,Moda,63,48,8761.36,139.07,CS,45
+1,Ri Happy Baby,Infantil,47,39,8623.74,183.48,CS,46
+1,Hering Store,Moda,28,23,8210.37,293.23,CS,47
+1,Bacio di Latte,Gastronomia,145,99,8168.87,56.34,CS,48
 1,Outback Steakhouse,Gastronomia,37,33,7916.72,213.97,CS,49
-1,Pop Me,Moda,25,25,6939.7,277.59,CS,50
-1,Luz da Lua,Moda,6,5,6675.8,1112.63,CS,51
-1,Democrata,Calçados,16,14,6625.16,414.07,CS,52
-1,Brooksfield,Moda,4,4,6455.24,1613.81,CS,53
-1,Companhia da Moda,Moda,11,11,6173.6,561.24,CS,54
-1,Casa Maria,Casa e Decoração,87,54,6148.68,70.67,CS,55
-1,Bom Beef,Gastronomia,76,39,5936.45,78.11,CS,56
-1,ADCOS,Beleza e Bem-estar,12,11,5863.38,488.62,CS,57
-1,Ophicina,Moda,8,8,5822.96,727.87,CS,58
-1,Bagaggio,Presentes e Acessórios,11,10,5790.85,526.44,CS,59
-1,Spoleto,Gastronomia,111,85,5769.01,51.97,CS,60
-1,Cartes - Cozinha do Mundo,Gastronomia,82,55,5529.06,67.43,CS,61
-1,FARM Rio,Moda,14,12,5282.89,377.35,CS,62
+1,Pop Me,Moda,26,26,7289.4,280.36,CS,50
+1,Brooksfield,Moda,5,5,7155.14,1431.03,CS,51
+1,Luz da Lua,Moda,6,5,6675.8,1112.63,CS,52
+1,Democrata,Calçados,16,14,6625.16,414.07,CS,53
+1,Casa Maria,Casa e Decoração,88,55,6339.56,72.04,CS,54
+1,Bom Beef,Gastronomia,79,42,6229.35,78.85,CS,55
+1,Companhia da Moda,Moda,11,11,6173.6,561.24,CS,56
+1,Spoleto,Gastronomia,118,88,6145.24,52.08,CS,57
+1,ADCOS,Beleza e Bem-estar,12,11,5863.38,488.62,CS,58
+1,Ophicina,Moda,8,8,5822.96,727.87,CS,59
+1,Bagaggio,Presentes e Acessórios,11,10,5790.85,526.44,CS,60
+1,Cartes - Cozinha do Mundo,Gastronomia,86,55,5709.23,66.39,CS,61
+1,FARM Rio,Moda,15,13,5657.39,377.16,CS,62
 1,Hefesto Acessorios,Presentes e Acessórios,24,14,5205.03,216.88,CS,63
 1,Lupo,Moda,26,25,5174.82,199.03,CS,64
 1,Constance,Calçados,19,17,5160.37,271.6,CS,65
-1,Arquipélago  Sushi,Gastronomia,15,11,5132.28,342.15,CS,66
-1,Giraffas,Gastronomia,101,67,5067.31,50.17,CS,67
-1,Chuá Brand,Moda Feminina,5,5,4814.9,962.98,CS,68
-1,Mini Kalzone,Gastronomia,183,130,4807.8,26.27,CS,69
-1,Narbona Brasil,Gastronomia,13,13,4785.08,368.08,CS,70
-1,Reserva,Moda,8,7,4783.0,597.88,CS,71
-1,Polo Wear,Moda,28,25,4771.48,170.41,CS,72
-1,Sunglass Hut,Ótica,3,3,4687.0,1562.33,CS,73
-1,Kings  Sneakers,Calçados,6,6,4517.6,752.93,CS,74
-1,Altenburg,Casa e Decoração,3,3,4490.8,1496.93,CS,75
-1,Anacapri,Lazer,12,7,4434.35,369.53,CS,76
-1,Burger King,Gastronomia,83,62,4419.58,53.25,CS,77
-1,Vicio DiPrata,Joalheria,15,14,4383.8,292.25,CS,78
-1,Cinépolis,Lazer,56,45,4339.0,77.48,CS,79
+1,Giraffas,Gastronomia,103,67,5155.21,50.05,CS,66
+1,Arquipélago  Sushi,Gastronomia,15,11,5132.28,342.15,CS,67
+1,Mini Kalzone,Gastronomia,191,136,4973.6,26.04,CS,68
+1,Narbona Brasil,Gastronomia,14,14,4912.08,350.86,CS,69
+1,Anacapri,Lazer,13,8,4825.58,371.2,CS,70
+1,Chuá Brand,Moda Feminina,5,5,4814.9,962.98,CS,71
+1,Reserva,Moda,8,7,4783.0,597.88,CS,72
+1,Polo Wear,Moda,28,25,4771.48,170.41,CS,73
+1,Sunglass Hut,Ótica,3,3,4687.0,1562.33,CS,74
+1,Burger King,Gastronomia,88,65,4653.47,52.88,CS,75
+1,Kings  Sneakers,Calçados,6,6,4517.6,752.93,CS,76
+1,Altenburg,Casa e Decoração,3,3,4490.8,1496.93,CS,77
+1,Cinépolis,Lazer,58,47,4423.0,76.26,CS,78
+1,Vicio DiPrata,Joalheria,15,14,4383.8,292.25,CS,79
 1,Camarão Express,Gastronomia,43,18,4162.11,96.79,CS,80
 1,WePink,Beleza e Bem-estar,29,25,4103.65,141.51,CS,81
-1,PRIME GAMES,Eletrônicos,3,3,3683.0,1227.67,CS,82
-1,Gamelas & Panella's,Gastronomia,63,37,3644.53,57.85,CS,83
-1,Life Vivara,Joalheria,7,6,3414.0,487.71,CS,84
-1,Monviso,Ótica,3,3,3259.0,1086.33,CS,85
-1,Docejo,Gastronomia,61,47,3219.8,52.78,CS,86
-1,Natura,Beleza e Bem-estar,31,30,3147.52,101.53,CS,87
-1,Capivalley,Promocional,5,5,3000.0,600.0,CS,88
-1,Swell Poke,Gastronomia,39,34,2934.0,75.23,CS,89
-1,Zanoni Sushi,Gastronomia,42,30,2854.95,67.97,CS,90
-1,Montana Grill,Gastronomia,49,34,2804.54,57.24,CS,91
-1,Divino Fogão,Gastronomia,45,24,2798.9,62.2,CS,92
-1,John John,Moda,9,7,2789.81,309.98,CS,93
-1,Manly,Moda Feminina,4,4,2740.61,685.15,CS,94
-1,Griletto,Gastronomia,57,38,2415.39,42.38,CS,95
-1,World Tennis,Calçados,6,6,2411.92,401.99,CS,96
-1,Spedini Trattoria Expressa,Gastronomia,49,34,2396.37,48.91,CS,97
-1,Forneria Carbone,Gastronomia,7,6,2356.53,336.65,CS,98
-1,Bob's Sorvete - Quiosque,Gastronomia,75,57,2211.3,29.48,CS,99
-1,Tomato,Gastronomia,35,28,2179.29,62.27,CS,100
-1,Mr. Cheff,Gastronomia,47,26,1673.74,35.61,CS,101
-1,Lez a Lez,Moda,4,3,1648.75,412.19,CS,102
-1,Quebra Gelo,Presentes e Acessórios,7,7,1640.0,234.29,CS,103
-1,Mr. Cat,Calçados,4,4,1629.3,407.32,CS,104
-1,Continente Shopping - Estacionamento,Serviços,60,53,1604.0,26.73,CS,105
-1,Café Cultura,Gastronomia,41,33,1601.02,39.05,CS,106
-1,Morana,Presentes e Acessórios,14,14,1573.3,112.38,CS,107
-1,Me Blue,Presentes e Acessórios,13,12,1501.5,115.5,CS,108
-1,L'OCCITANE AU BRESIL,Beleza e Bem-estar,5,5,1489.6,297.92,CS,109
-1,Riviera Café,Gastronomia,29,17,1485.0,51.21,CS,110
-1,It Cell,Eletrônicos,8,7,1420.92,177.62,CS,111
-1,Jah do Açaí,Gastronomia,13,10,1379.39,106.11,CS,112
-1,Hot Dog Du Piru,Gastronomia,38,28,1285.79,33.84,CS,113
-1,Floripratas,Presentes e Acessórios,10,9,1257.25,125.72,CS,114
-1,Subway,Gastronomia,34,23,1215.9,35.76,CS,115
-1,AstroBox,Gastronomia,23,20,1131.43,49.19,CS,116
-1,Borelli Gelato,Gastronomia - Sorvetes,26,22,1112.0,42.77,CS,117
-1,Outlet Suplementos,Esportes,5,4,1100.93,220.19,CS,118
-1,Goldko,Gastronomia,8,8,1087.93,135.99,CS,119
-1,Sandaliaria,Calçados,5,5,1051.19,210.24,CS,120
-1,Provin Joias,Não informado,5,5,997.0,199.4,CS,121
-1,Chiquinho Sorvetes,Gastronomia - Sorvetes,42,34,977.0,23.26,CS,122
-1,Frank d'Ferran Cabelereiros,Salão de Beleza | Barbearia,3,3,952.0,317.33,CS,123
-1,Lilica & Tigor,Infantil,4,2,824.85,206.21,CS,124
-1,Ótica Oculum,Ótica,1,1,790.0,790.0,CS,125
-1,World Cookies,Gastronomia,36,10,727.5,20.21,CS,126
-1,Mr Trend,Ótica,2,2,712.0,356.0,CS,127
-1,New Era,Moda,3,3,688.8,229.6,CS,128
+1,Gamelas & Panella's,Gastronomia,65,37,3728.29,57.36,CS,82
+1,PRIME GAMES,Eletrônicos,3,3,3683.0,1227.67,CS,83
+1,John John,Moda,11,9,3593.82,326.71,CS,84
+1,Life Vivara,Joalheria,7,6,3414.0,487.71,CS,85
+1,Zanoni Sushi,Gastronomia,48,33,3363.44,70.07,CS,86
+1,Docejo,Gastronomia,65,49,3357.7,51.66,CS,87
+1,Monviso,Ótica,3,3,3259.0,1086.33,CS,88
+1,Divino Fogão,Gastronomia,49,28,3151.0,64.31,CS,89
+1,Natura,Beleza e Bem-estar,31,30,3147.52,101.53,CS,90
+1,Swell Poke,Gastronomia,41,36,3114.0,75.95,CS,91
+1,Capivalley,Promocional,5,5,3000.0,600.0,CS,92
+1,Montana Grill,Gastronomia,51,36,2980.74,58.45,CS,93
+1,Manly,Moda Feminina,5,5,2944.61,588.92,CS,94
+1,Griletto,Gastronomia,61,40,2507.19,41.1,CS,95
+1,Spedini Trattoria Expressa,Gastronomia,52,35,2484.37,47.78,CS,96
+1,World Tennis,Calçados,6,6,2411.92,401.99,CS,97
+1,Bob's Sorvete - Quiosque,Gastronomia,82,61,2393.5,29.19,CS,98
+1,Forneria Carbone,Gastronomia,7,6,2356.53,336.65,CS,99
+1,Tomato,Gastronomia,37,29,2323.09,62.79,CS,100
+1,Me Blue,Presentes e Acessórios,15,14,1823.5,121.57,CS,101
+1,Mr. Cheff,Gastronomia,48,26,1717.74,35.79,CS,102
+1,Café Cultura,Gastronomia,43,35,1651.42,38.41,CS,103
+1,Lez a Lez,Moda,4,3,1648.75,412.19,CS,104
+1,Quebra Gelo,Presentes e Acessórios,7,7,1640.0,234.29,CS,105
+1,Mr. Cat,Calçados,4,4,1629.3,407.32,CS,106
+1,It Cell,Eletrônicos,9,8,1618.92,179.88,CS,107
+1,Continente Shopping - Estacionamento,Serviços,60,53,1604.0,26.73,CS,108
+1,Morana,Presentes e Acessórios,14,14,1573.3,112.38,CS,109
+1,L'OCCITANE AU BRESIL,Beleza e Bem-estar,5,5,1489.6,297.92,CS,110
+1,Riviera Café,Gastronomia,29,17,1485.0,51.21,CS,111
+1,Jah do Açaí,Gastronomia,15,11,1415.05,94.34,CS,112
+1,Hot Dog Du Piru,Gastronomia,40,30,1344.78,33.62,CS,113
+1,Goldko,Gastronomia,9,9,1334.32,148.26,CS,114
+1,Floripratas,Presentes e Acessórios,10,9,1257.25,125.72,CS,115
+1,AstroBox,Gastronomia,25,22,1256.03,50.24,CS,116
+1,Outlet Suplementos,Esportes,6,5,1241.92,206.99,CS,117
+1,Subway,Gastronomia,34,23,1215.9,35.76,CS,118
+1,Borelli Gelato,Gastronomia - Sorvetes,26,22,1112.0,42.77,CS,119
+1,New Era,Moda,5,4,1068.6,213.72,CS,120
+1,Sandaliaria,Calçados,5,5,1051.19,210.24,CS,121
+1,Chiquinho Sorvetes,Gastronomia - Sorvetes,44,35,998.0,22.68,CS,122
+1,Provin Joias,Não informado,5,5,997.0,199.4,CS,123
+1,Frank d'Ferran Cabelereiros,Salão de Beleza | Barbearia,3,3,952.0,317.33,CS,124
+1,Lilica & Tigor,Infantil,4,2,824.85,206.21,CS,125
+1,Ótica Oculum,Ótica,1,1,790.0,790.0,CS,126
+1,World Cookies,Gastronomia,36,10,727.5,20.21,CS,127
+1,Mr Trend,Ótica,2,2,712.0,356.0,CS,128
 1,EVOLUCELL CELULARES,Telefonia,2,1,675.0,337.5,CS,129
 1,Le Postiche,Presentes e Acessórios,5,5,609.95,121.99,CS,130
 1,Melissa,Calçados,3,3,609.5,203.17,CS,131
 1,Botoclinic,Beleza e Bem-estar,1,1,599.0,599.0,CS,132
-1,Milky Moo,Gastronomia,16,14,564.0,35.25,CS,133
-1,Smartcase,Eletrônicos,3,3,458.8,152.93,CS,134
-1,Kfc,Gastronomia,9,9,419.0,46.56,CS,135
-1,Lanzara,Joalheria,1,1,375.0,375.0,CS,136
-1,Dedal Oficina de Costura,Serviços,1,1,282.0,282.0,CS,137
-1,Fini,Gastronomia,5,4,254.2,50.84,CS,138
-1,Mate Chique,Outros,2,2,155.8,77.9,CS,139
-1,WOW Park,Lazer,4,4,115.8,28.95,CS,140
-2,Renner,Moda,299,218,92076.47,307.95,BS,1
+1,Homem do Sapato,Moda,1,1,599.0,599.0,CS,133
+1,Milky Moo,Gastronomia,16,14,564.0,35.25,CS,134
+1,Kfc,Gastronomia,11,11,523.6,47.6,CS,135
+1,Smartcase,Eletrônicos,3,3,458.8,152.93,CS,136
+1,Lanzara,Joalheria,1,1,375.0,375.0,CS,137
+1,Dedal Oficina de Costura,Serviços,1,1,282.0,282.0,CS,138
+1,Fini,Gastronomia,5,4,254.2,50.84,CS,139
+1,Mate Chique,Outros,2,2,155.8,77.9,CS,140
+1,WOW Park,Lazer,4,4,115.8,28.95,CS,141
+1,Eco Made,Casa e Decoração,1,1,15.0,15.0,CS,142
+2,Renner,Moda,319,230,99869.02,313.07,BS,1
 2,Vivara,Joalheria,18,16,74881.35,4160.08,BS,2
-2,Lindt,Gastronomia,158,131,63128.29,399.55,BS,3
-2,Centauro,Esportes,140,127,59956.37,428.26,BS,4
-2,Victor Hugo,Moda Feminina,13,9,49063.71,3774.13,BS,5
-2,C&A,Moda,138,112,40609.5,294.27,BS,6
-2,Paris Cosméticos,Beleza e Bem-estar,84,74,28149.47,335.11,BS,7
+2,Centauro,Esportes,144,129,64943.23,450.99,BS,3
+2,Lindt,Gastronomia,160,133,64272.57,401.7,BS,4
+2,Victor Hugo,Moda Feminina,14,10,51048.71,3646.34,BS,5
+2,C&A,Moda,141,115,41749.39,296.09,BS,6
+2,Paris Cosméticos,Beleza e Bem-estar,85,75,29457.47,346.56,BS,7
 2,Le Lis Blanc,Moda,13,13,27825.56,2140.43,BS,8
-2,Cacau Show,Gastronomia,97,79,26770.19,275.98,BS,9
+2,Cacau Show,Gastronomia,99,81,27006.6,272.79,BS,9
 2,Coliseu,Joalheria,6,5,26607.0,4434.5,BS,10
-2,Paula Torres,Calçados Femininos,8,8,23524.31,2940.54,BS,11
-2,Track&Field,Moda,36,28,23351.04,648.64,BS,12
-2,Superlegal Brinquedos,Infantil,100,81,22973.57,229.74,BS,13
-2,The North Face,Moda,13,6,21934.0,1687.23,BS,14
-2,Rayban,Ótica,13,12,20537.5,1579.81,BS,15
-2,Adidas,Esportes,24,20,20025.76,834.41,BS,16
-2,Lofty style,Moda Feminina,22,21,19668.16,894.01,BS,17
-2,Samsung,Eletrônicos,2,2,19574.0,9787.0,BS,18
-2,Brooksfield,Moda,10,10,18845.03,1884.5,BS,19
-2,Dress To,Moda Feminina,12,12,18718.0,1559.83,BS,20
-2,Arezzo,Calçados Femininos,31,29,18041.25,581.98,BS,21
-2,Kopenhagen,Gastronomia,73,49,17996.92,246.53,BS,22
-2,Adidas Originals,Moda,20,18,17595.15,879.76,BS,23
-2,Live!,Moda,26,23,15393.18,592.05,BS,24
-2,Livrarias Catarinense,Livrarias,154,125,15065.16,97.83,BS,25
-2,Dolce & Gabbana,Moda,2,2,14809.0,7404.5,BS,26
-2,Virus 41,Calçados,16,16,14359.87,897.49,BS,27
+2,Superlegal Brinquedos,Infantil,105,86,23696.5,225.68,BS,11
+2,Track&Field,Moda,37,29,23640.94,638.94,BS,12
+2,Paula Torres,Calçados Femininos,8,8,23524.31,2940.54,BS,13
+2,Lofty style,Moda Feminina,24,23,22729.16,947.05,BS,14
+2,Brooksfield,Moda,11,11,22520.33,2047.3,BS,15
+2,The North Face,Moda,13,6,21934.0,1687.23,BS,16
+2,Rayban,Ótica,13,12,20537.5,1579.81,BS,17
+2,Adidas,Esportes,24,20,20025.76,834.41,BS,18
+2,Samsung,Eletrônicos,2,2,19574.0,9787.0,BS,19
+2,Livrarias Catarinense,Livrarias,163,132,19497.37,119.62,BS,20
+2,Dress To,Moda Feminina,12,12,18718.0,1559.83,BS,21
+2,Arezzo,Calçados Femininos,32,30,18641.05,582.53,BS,22
+2,Adidas Originals,Moda,22,20,18495.12,840.69,BS,23
+2,Kopenhagen,Gastronomia,76,52,18123.98,238.47,BS,24
+2,Virus 41,Calçados,18,18,15619.67,867.76,BS,25
+2,Live!,Moda,26,23,15393.18,592.05,BS,26
+2,Dolce & Gabbana,Moda,2,2,14809.0,7404.5,BS,27
 2,Altenburg,Casa e Decoração,5,5,14351.1,2870.22,BS,28
 2,Oakley,Ótica,10,9,13954.6,1395.46,BS,29
 2,Nike,Moda,9,9,13662.72,1518.08,BS,30
-2,Magazine Luiza,Eletrodomésticos,5,5,11840.85,2368.17,BS,31
-2,iPlace Mobile,Eletrônicos,4,4,11629.18,2907.3,BS,32
-2,Outback Steakhouse,Gastronomia,44,34,11294.94,256.7,BS,33
-2,Ri Happy,Infantil,55,46,11198.04,203.6,BS,34
-2,Miniso,Presentes e Acessórios,79,30,11134.61,140.94,BS,35
-2,Granado,Beleza e Bem-estar,42,34,10962.92,261.02,BS,36
-2,Grandvision by Fototica,Ótica,9,4,10704.4,1189.38,BS,37
-2,Madero,Gastronomia,57,49,10546.15,185.02,BS,38
-2,Hope,Moda,31,29,10427.49,336.37,BS,39
-2,Magic Feet,Moda,12,9,10106.93,842.24,BS,40
-2,Boss,Moda,8,6,9998.0,1249.75,BS,41
-2,Hering Store,Moda,29,28,9614.0,331.52,BS,42
-2,Lojas Americanas,Supermercado,143,89,9462.26,66.17,BS,43
-2,Levi's,Moda,15,15,9268.41,617.89,BS,44
-2,Lua Luá,Moda,20,15,8947.3,447.36,BS,45
-2,Bacio di Latte,Gastronomia,113,77,8915.02,78.89,BS,46
-2,John John Denim,Moda,11,7,8838.84,803.53,BS,47
-2,Zeiss Vision Center,Ótica,2,2,8815.0,4407.5,BS,48
-2,Casa Bauducco,Gastronomia,71,50,8491.62,119.6,BS,49
-2,Schutz,Calçados,9,9,8287.0,920.78,BS,50
-2,Le Creuset,Casa e Decoração,12,10,8121.25,676.77,BS,51
-2,Camicado,Casa e Decoração,30,25,7954.08,265.14,BS,52
-2,Lupo,Moda,27,26,7801.0,288.93,BS,53
-2,Nba Store Balneario Camboriu,Moda,12,11,7674.91,639.58,BS,54
-2,Clifield,Moda,12,10,7534.9,627.91,BS,55
-2,Carter´s,Infantil,21,18,7370.71,350.99,BS,56
-2,Farm,Moda,11,9,7325.44,665.95,BS,57
-2,Natura,Beleza e Bem-estar,38,34,7188.44,189.17,BS,58
+2,Ri Happy,Infantil,56,47,12528.01,223.71,BS,31
+2,Outback Steakhouse,Gastronomia,49,38,12092.03,246.78,BS,32
+2,Magazine Luiza,Eletrodomésticos,5,5,11840.85,2368.17,BS,33
+2,iPlace Mobile,Eletrônicos,4,4,11629.18,2907.3,BS,34
+2,Granado,Beleza e Bem-estar,44,35,11374.92,258.52,BS,35
+2,Madero,Gastronomia,62,53,11171.01,180.18,BS,36
+2,Miniso,Presentes e Acessórios,79,30,11134.61,140.94,BS,37
+2,Grandvision by Fototica,Ótica,9,4,10704.4,1189.38,BS,38
+2,Magic Feet,Moda,13,10,10506.92,808.22,BS,39
+2,Hope,Moda,32,30,10428.57,325.89,BS,40
+2,Lojas Americanas,Supermercado,155,95,10077.5,65.02,BS,41
+2,Boss,Moda,8,6,9998.0,1249.75,BS,42
+2,Hering Store,Moda,30,29,9683.0,322.77,BS,43
+2,Lua Luá,Moda,21,16,9296.3,442.68,BS,44
+2,Levi's,Moda,15,15,9268.41,617.89,BS,45
+2,Bacio di Latte,Gastronomia,119,80,9099.02,76.46,BS,46
+2,Le Creuset,Casa e Decoração,14,12,8929.25,637.8,BS,47
+2,John John Denim,Moda,11,7,8838.84,803.53,BS,48
+2,Zeiss Vision Center,Ótica,2,2,8815.0,4407.5,BS,49
+2,Camicado,Casa e Decoração,32,27,8774.01,274.19,BS,50
+2,Casa Bauducco,Gastronomia,71,50,8491.62,119.6,BS,51
+2,Carter´s,Infantil,25,22,8470.63,338.83,BS,52
+2,Lupo,Moda,31,29,8325.4,268.56,BS,53
+2,Schutz,Calçados,9,9,8287.0,920.78,BS,54
+2,Natura,Beleza e Bem-estar,41,37,7722.37,188.35,BS,55
+2,Nba Store Balneario Camboriu,Moda,12,11,7674.91,639.58,BS,56
+2,Clifield,Moda,12,10,7534.9,627.91,BS,57
+2,Farm,Moda,11,9,7325.44,665.95,BS,58
 2,Maria Dolores,Joalheria,4,4,7097.0,1774.25,BS,59
 2,TIM,Telefonia,2,1,7081.84,3540.92,BS,60
 2,Vr Collezioni,Moda,2,2,6940.0,3470.0,BS,61
-2,Vans,Calçados,8,7,6779.85,847.48,BS,62
-2,Adcos,Beleza e Bem-estar,14,14,6336.1,452.58,BS,63
-2,MeLinda,Calçados Femininos,30,29,6210.72,207.02,BS,64
-2,Óticas Carol,Ótica,4,3,6196.0,1549.0,BS,65
+2,MeLinda,Calçados Femininos,33,31,6845.52,207.44,BS,62
+2,Vans,Calçados,8,7,6779.85,847.48,BS,63
+2,Óticas Carol,Ótica,5,4,6395.0,1279.0,BS,64
+2,Adcos,Beleza e Bem-estar,14,14,6336.1,452.58,BS,65
 2,Kipling,Presentes e Acessórios,10,7,6122.6,612.26,BS,66
 2,Artwalk,Calçados,7,7,6004.96,857.85,BS,67
 2,Youcom,Moda,19,18,5889.41,309.97,BS,68
 2,Coach,Moda Feminina,2,2,5886.2,2943.1,BS,69
-2,O Boticário,Beleza e Bem-estar,40,37,5267.05,131.68,BS,70
+2,O Boticário,Beleza e Bem-estar,42,39,5516.94,131.36,BS,70
 2,Saint Germain,Joalheria,9,8,4662.0,518.0,BS,71
 2,Bagaggio,Presentes e Acessórios,4,4,4328.6,1082.15,BS,72
 2,Ellus,Moda,3,3,4266.85,1422.28,BS,73
 2,Vivo,Telefonia,1,1,4234.15,4234.15,BS,74
 2,Morana,Presentes e Acessórios,17,16,4113.82,241.99,BS,75
-2,Unizushi,Gastronomia,17,12,3863.75,227.28,BS,76
-2,McDonald's,Gastronomia,71,42,3844.15,54.14,BS,77
-2,Sunglass Hut,Ótica,2,2,3681.5,1840.75,BS,78
-2,Paladare Di Italia,Gastronomia,46,26,3618.6,78.67,BS,79
+2,McDonald's,Gastronomia,74,44,3903.05,52.74,BS,76
+2,Unizushi,Gastronomia,17,12,3863.75,227.28,BS,77
+2,Paladare Di Italia,Gastronomia,47,26,3765.6,80.12,BS,78
+2,Sunglass Hut,Ótica,2,2,3681.5,1840.75,BS,79
 2,Audithorium,Moda,5,5,3605.83,721.17,BS,80
-2,AJFans Balneário Shopping,Promocional,3,1,3500.0,1166.67,BS,81
-2,Wepink,Beleza e Bem-estar,30,23,3416.16,113.87,BS,82
-2,Loungerie,Moda,16,15,3393.25,212.08,BS,83
-2,Mac,Beleza e Bem-estar,9,9,3359.6,373.29,BS,84
-2,Gamelas & Panella´s,Gastronomia,40,25,3270.72,81.77,BS,85
-2,Samsonite,Presentes e Acessórios,2,2,3235.0,1617.5,BS,86
-2,Bibi,Infantil,11,8,3215.54,292.32,BS,87
+2,Bibi,Infantil,12,9,3570.34,297.53,BS,81
+2,AJFans Balneário Shopping,Promocional,3,1,3500.0,1166.67,BS,82
+2,Mac,Beleza e Bem-estar,10,10,3469.1,346.91,BS,83
+2,Wepink,Beleza e Bem-estar,30,23,3416.16,113.87,BS,84
+2,Loungerie,Moda,16,15,3393.25,212.08,BS,85
+2,Gamelas & Panella´s,Gastronomia,40,25,3270.72,81.77,BS,86
+2,Samsonite,Presentes e Acessórios,2,2,3235.0,1617.5,BS,87
 2,Sandra Duwe,Joalheria,1,1,3095.0,3095.0,BS,88
 2,Stanley,Presentes e Acessórios,10,9,3069.02,306.9,BS,89
 2,Bottero,Calçados,7,7,2979.1,425.59,BS,90
-2,KFC,Gastronomia,54,41,2933.6,54.33,BS,91
+2,KFC,Gastronomia,55,42,2947.5,53.59,BS,91
 2,Calvin Klein,Moda,6,6,2931.0,488.5,BS,92
 2,Richard's,Moda,2,2,2797.0,1398.5,BS,93
 2,Luz da Lua,Calçados,4,4,2759.5,689.88,BS,94
 2,Milon,Infantil,8,8,2691.8,336.48,BS,95
-2,Jcanedo,Moda,5,4,2446.74,489.35,BS,96
-2,Havaianas,Calçados,27,27,2438.66,90.32,BS,97
-2,Osklen,Moda,7,6,2364.0,337.71,BS,98
-2,Criamigos,Infantil,10,10,2193.64,219.36,BS,99
-2,Swell Poke,Gastronomia,27,20,2159.0,79.96,BS,100
-2,Usaflex,Calçados,5,5,2157.96,431.59,BS,101
-2,Democrata,Calçados,5,5,2049.45,409.89,BS,102
-2,Souq,Moda Feminina,3,3,2043.6,681.2,BS,103
-2,Paquetá Esportes,Esportes,6,5,2034.91,339.15,BS,104
-2,Havanna Café,Gastronomia,17,12,1960.2,115.31,BS,105
-2,Tip Top,Infantil,8,8,1957.52,244.69,BS,106
-2,Salinas,Moda,4,4,1931.0,482.75,BS,107
-2,Swarovski,Joalheria,2,2,1908.0,954.0,BS,108
-2,Aramis,Moda,1,1,1899.0,1899.0,BS,109
-2,Pizza Hut,Gastronomia,27,21,1758.99,65.15,BS,110
-2,Café Cultura,Gastronomia,35,26,1741.02,49.74,BS,111
-2,MB acessórios,Presentes e Acessórios,11,9,1722.27,156.57,BS,112
-2,Quiksilver,Moda,3,3,1638.52,546.17,BS,113
-2,Mânoa Acessórios,Presentes e Acessórios,21,19,1612.92,76.81,BS,114
-2,Ugg,Moda Feminina,1,1,1599.0,1599.0,BS,115
-2,Puket,Moda,10,10,1582.22,158.22,BS,116
-2,Mini Kalzone,Gastronomia,72,41,1581.5,21.97,BS,117
+2,Havaianas,Calçados,27,27,2639.63,97.76,BS,96
+2,Jcanedo,Moda,5,4,2446.74,489.35,BS,97
+2,Democrata,Calçados,6,6,2437.15,406.19,BS,98
+2,Osklen,Moda,7,6,2364.0,337.71,BS,99
+2,Tip Top,Infantil,10,9,2326.32,232.63,BS,100
+2,Criamigos,Infantil,10,10,2193.64,219.36,BS,101
+2,Swell Poke,Gastronomia,28,21,2167.0,77.39,BS,102
+2,Usaflex,Calçados,5,5,2157.96,431.59,BS,103
+2,Puket,Moda,11,11,2133.83,193.98,BS,104
+2,Souq,Moda Feminina,3,3,2043.6,681.2,BS,105
+2,Paquetá Esportes,Esportes,6,5,2034.91,339.15,BS,106
+2,Havanna Café,Gastronomia,19,13,2018.7,106.25,BS,107
+2,Salinas,Moda,4,4,1931.0,482.75,BS,108
+2,Swarovski,Joalheria,2,2,1908.0,954.0,BS,109
+2,Aramis,Moda,1,1,1899.0,1899.0,BS,110
+2,Café Cultura,Gastronomia,37,26,1887.02,51.0,BS,111
+2,Pizza Hut,Gastronomia,27,21,1758.99,65.15,BS,112
+2,MB acessórios,Presentes e Acessórios,11,9,1722.27,156.57,BS,113
+2,Quiksilver,Moda,3,3,1638.52,546.17,BS,114
+2,Mini Kalzone,Gastronomia,74,43,1630.0,22.03,BS,115
+2,Mânoa Acessórios,Presentes e Acessórios,21,19,1612.92,76.81,BS,116
+2,Ugg,Moda Feminina,1,1,1599.0,1599.0,BS,117
 2,L'occitane Bresil,Beleza e Bem-estar,8,8,1567.46,195.93,BS,118
 2,Colcci,Moda,3,3,1536.0,512.0,BS,119
 2,De Ville Gourmet,Gastronomia,21,14,1502.08,71.53,BS,120
@@ -263,16 +265,16 @@
 2,Plié,Moda,6,5,1438.1,239.68,BS,122
 2,Manly,Moda Feminina,4,3,1356.3,339.08,BS,123
 2,Pegada,Calçados,3,1,1329.96,443.32,BS,124
-2,Beagle,Moda,6,6,1279.65,213.28,BS,125
-2,Balneário Shopping - Estacionamento,Serviços,33,31,1205.0,36.52,BS,126
-2,Camarão Express,Gastronomia,18,12,1198.3,66.57,BS,127
+2,Beagle,Moda,7,6,1279.44,182.78,BS,125
+2,Camarão Express,Gastronomia,19,13,1238.3,65.17,BS,126
+2,Balneário Shopping - Estacionamento,Serviços,33,31,1205.0,36.52,BS,127
 2,Cores em Cacau,Gastronomia,2,2,1165.2,582.6,BS,128
 2,Orientali,Gastronomia,17,13,1106.5,65.09,BS,129
-2,Giraffa's,Gastronomia,17,15,1053.5,61.97,BS,130
-2,Sephora,Beleza e Bem-estar,1,1,1043.16,1043.16,BS,131
-2,Subway,Gastronomia,24,16,1033.2,43.05,BS,132
-2,Burger King,Gastronomia,19,15,1030.5,54.24,BS,133
-2,10 Pastéis,Gastronomia,28,17,1025.35,36.62,BS,134
+2,Subway,Gastronomia,26,18,1094.1,42.08,BS,130
+2,10 Pastéis,Gastronomia,30,17,1085.85,36.2,BS,131
+2,Burger King,Gastronomia,20,16,1059.9,52.99,BS,132
+2,Giraffa's,Gastronomia,17,15,1053.5,61.97,BS,133
+2,Sephora,Beleza e Bem-estar,1,1,1043.16,1043.16,BS,134
 2,Duladu,Gastronomia,5,4,1019.7,203.94,BS,135
 2,Pampile,Infantil,4,4,1019.39,254.85,BS,136
 2,Lacoste,Moda,2,2,1018.0,509.0,BS,137
@@ -289,8 +291,8 @@
 2,Sinhá Benta,Gastronomia,10,10,609.9,60.99,BS,148
 2,Buddha Spa,Serviços,3,2,608.0,202.67,BS,149
 2,Bondyou,Presentes e Acessórios,7,6,602.2,86.03,BS,150
-2,Bread Pide,Gastronomia,12,11,562.07,46.84,BS,151
-2,"Quem disse, Berenice?",Beleza e Bem-estar,8,7,553.42,69.18,BS,152
+2,"Quem disse, Berenice?",Beleza e Bem-estar,9,8,583.32,64.81,BS,151
+2,Bread Pide,Gastronomia,13,12,574.69,44.21,BS,152
 2,Creamy Skin Care,Beleza e Bem-estar,4,4,474.57,118.64,BS,153
 2,Valenttina,Moda Feminina,4,3,394.8,98.7,BS,154
 2,Tea Shop,Gastronomia,4,4,383.18,95.8,BS,155
@@ -305,130 +307,130 @@
 2,Chilli Beans,Ótica,1,1,199.98,199.98,BS,164
 2,Clube Melissa,Calçados,2,2,190.9,95.45,BS,165
 2,Acium,Presentes e Acessórios,1,1,184.81,184.81,BS,166
-2,Nutty Bavarian,Gastronomia,3,3,126.0,42.0,BS,167
-2,Juistreet,Gastronomia,3,2,98.8,32.93,BS,168
-2,Roasted Potato & Suco Bagaço,Gastronomia,8,7,87.0,10.88,BS,169
-2,Fun Case,Eletrônicos,2,2,73.0,36.5,BS,170
-2,Milky moo,Gastronomia,1,1,59.0,59.0,BS,171
-3,Renner,Moda,330,247,88390.57,267.85,NK,1
-3,Joalheria Baier,Joalheria,4,4,55365.0,13841.25,NK,2
-3,Centauro,Esportes,146,120,52855.58,362.02,NK,3
-3,Shoulder,Moda Feminina,52,43,52306.25,1005.89,NK,4
-3,Havan,Casa e Decoração,210,171,50577.2,240.84,NK,5
-3,Riachuelo,Moda,187,156,44387.7,237.37,NK,6
-3,Vivara,Joalheria,19,19,38837.36,2044.07,NK,7
-3,Lindt,Gastronomia,190,149,38191.52,201.01,NK,8
-3,Cacau Show,Gastronomia,243,191,37372.22,153.8,NK,9
-3,Óticas Carol,Ótica,20,19,34004.79,1700.24,NK,10
-3,LOJAS AMERICANAS,Eletrodomésticos,419,261,29477.92,70.35,NK,11
-3,Brooksfield,Moda,22,20,28576.93,1298.95,NK,12
-3,Swarovski,Joalheria,12,12,24262.0,2021.83,NK,13
-3,Ri Happy,Infantil,111,90,23694.51,213.46,NK,14
-3,Adidas,Esportes,33,32,22584.9,684.39,NK,15
-3,Livrarias Catarinense,Livrarias,222,172,21191.05,95.46,NK,16
-3,Me.Linda,Beleza e Bem-estar,142,120,21004.38,147.92,NK,17
-3,Samsung,Eletrônicos,3,2,20892.0,6964.0,NK,18
-3,Cia do Homem,Moda,30,26,20773.6,692.45,NK,19
-3,Le Lis,Moda,18,16,20471.11,1137.28,NK,20
-3,Kalunga,Papelaria,212,164,20043.3,94.54,NK,21
-3,Arezzo,Calçados,35,30,19850.72,567.16,NK,22
-3,Madero,Gastronomia,109,86,19635.51,180.14,NK,23
-3,Kopenhagen,Gastronomia,163,114,18223.66,111.8,NK,24
-3,Luz da Lua,Calçados,21,18,18073.3,860.63,NK,25
-3,Vivo,Telefonia,3,2,17308.6,5769.53,NK,26
-3,Avatim,Beleza e Bem-estar,106,99,17288.0,163.09,NK,27
-3,Idéli.Oui,Beleza e Bem-estar,38,32,16948.29,446.01,NK,28
-3,Panvel Farmácias,Farmácias,149,115,15445.84,103.66,NK,29
-3,Damyller,Moda,13,12,15404.0,1184.92,NK,30
+2,Milky moo,Gastronomia,2,2,141.0,70.5,BS,167
+2,Nutty Bavarian,Gastronomia,3,3,126.0,42.0,BS,168
+2,Juistreet,Gastronomia,3,2,98.8,32.93,BS,169
+2,Roasted Potato & Suco Bagaço,Gastronomia,8,7,87.0,10.88,BS,170
+2,Fun Case,Eletrônicos,2,2,73.0,36.5,BS,171
+3,Renner,Moda,350,258,93182.19,266.23,NK,1
+3,Shoulder,Moda Feminina,56,46,56254.25,1004.54,NK,2
+3,Joalheria Baier,Joalheria,5,5,55742.2,11148.44,NK,3
+3,Centauro,Esportes,153,125,55416.4,362.2,NK,4
+3,Havan,Casa e Decoração,214,174,51221.9,239.35,NK,5
+3,Riachuelo,Moda,197,163,49407.4,250.8,NK,6
+3,Óticas Carol,Ótica,21,20,42140.79,2006.7,NK,7
+3,Lindt,Gastronomia,194,153,40502.39,208.78,NK,8
+3,Vivara,Joalheria,21,20,39864.47,1898.31,NK,9
+3,Cacau Show,Gastronomia,245,193,37454.2,152.87,NK,10
+3,LOJAS AMERICANAS,Eletrodomésticos,433,268,30277.1,69.92,NK,11
+3,Brooksfield,Moda,23,21,29376.83,1277.25,NK,12
+3,Swarovski,Joalheria,13,13,25091.0,1930.08,NK,13
+3,Ri Happy,Infantil,114,93,24333.48,213.45,NK,14
+3,Adidas,Esportes,34,33,22784.89,670.14,NK,15
+3,Livrarias Catarinense,Livrarias,227,176,21822.45,96.13,NK,16
+3,Me.Linda,Beleza e Bem-estar,151,124,21672.36,143.53,NK,17
+3,Arezzo,Calçados,39,33,21534.24,552.16,NK,18
+3,Kalunga,Papelaria,218,170,21533.1,98.78,NK,19
+3,Samsung,Eletrônicos,3,2,20892.0,6964.0,NK,20
+3,Cia do Homem,Moda,30,26,20773.6,692.45,NK,21
+3,Le Lis,Moda,18,16,20471.11,1137.28,NK,22
+3,Madero,Gastronomia,115,89,20370.27,177.13,NK,23
+3,Kopenhagen,Gastronomia,177,124,19027.16,107.5,NK,24
+3,Avatim,Beleza e Bem-estar,113,104,18302.0,161.96,NK,25
+3,Luz da Lua,Calçados,21,18,18073.3,860.63,NK,26
+3,Idéli.Oui,Beleza e Bem-estar,40,34,17373.29,434.33,NK,27
+3,Vivo,Telefonia,3,2,17308.6,5769.53,NK,28
+3,Panvel Farmácias,Farmácias,156,121,16287.12,104.4,NK,29
+3,Damyller,Moda,17,15,16277.3,957.49,NK,30
 3,JCanedo,Moda,19,17,15216.68,800.88,NK,31
-3,Carter's,Infantil,54,49,14816.07,274.37,NK,32
-3,TNG,Moda,27,23,14405.5,533.54,NK,33
-3,Track & Field,Moda,34,27,14034.6,412.78,NK,34
-3,Youcom,Moda,44,35,13880.61,315.47,NK,35
-3,Studio Z,Calçados,74,69,13353.78,180.46,NK,36
-3,Outback Steakhouse,Gastronomia,51,43,12506.92,245.23,NK,37
-3,Camicado,Casa e Decoração,61,49,12423.65,203.67,NK,38
-3,Hering Store,Moda,42,38,12335.08,293.69,NK,39
-3,Hope,Moda,33,28,12014.1,364.06,NK,40
-3,Bagaggio,Presentes e Acessórios,14,13,11994.98,856.78,NK,41
-3,Sinhá Benta Gourmet,Gastronomia,144,88,11962.1,83.07,NK,42
-3,Aramis,Moda,11,9,11958.31,1087.12,NK,43
-3,Cobasi,Pets,74,59,11571.45,156.37,NK,44
+3,TNG,Moda,28,24,14845.47,530.2,NK,32
+3,Carter's,Infantil,54,49,14816.07,274.37,NK,33
+3,Bagaggio,Presentes e Acessórios,18,15,14813.58,822.98,NK,34
+3,Studio Z,Calçados,78,71,14253.67,182.74,NK,35
+3,Youcom,Moda,46,37,14170.41,308.05,NK,36
+3,Track & Field,Moda,34,27,14034.6,412.78,NK,37
+3,Camicado,Casa e Decoração,65,52,13946.72,214.56,NK,38
+3,Outback Steakhouse,Gastronomia,52,44,12847.92,247.08,NK,39
+3,Hope,Moda,34,29,12697.95,373.47,NK,40
+3,Sinhá Benta Gourmet,Gastronomia,151,91,12347.45,81.77,NK,41
+3,Hering Store,Moda,42,38,12335.08,293.69,NK,42
+3,Aramis,Moda,12,10,12168.21,1014.02,NK,43
+3,Cobasi,Pets,77,60,11853.42,153.94,NK,44
 3,Tommy Hilfiger,Moda,17,16,11402.05,670.71,NK,45
 3,Sandra Duwe,Joalheria,4,4,9645.0,2411.25,NK,46
 3,Game Mania,Eletrônicos,3,3,8519.9,2839.97,NK,47
-3,Farm,Moda Feminina,20,17,7689.91,384.5,NK,48
-3,Gondolier,Gastronomia,104,81,7615.03,73.22,NK,49
-3,Democrata,Calçados,17,15,7587.75,446.34,NK,50
+3,Democrata,Calçados,18,16,7887.65,438.2,NK,48
+3,Gondolier,Gastronomia,106,83,7727.03,72.9,NK,49
+3,Farm,Moda Feminina,20,17,7689.91,384.5,NK,50
 3,Paquetá,Esportes,23,17,7583.66,329.72,NK,51
 3,Pratafina,Presentes e Acessórios,42,39,7454.0,177.48,NK,52
-3,Intimissimi,Moda Feminina,11,10,7247.06,658.82,NK,53
-3,Lupo,Moda,39,36,7037.0,180.44,NK,54
-3,Kombina Felice,Gastronomia - Restaurante,30,23,6740.13,224.67,NK,55
-3,Laci Baruffi,Presentes e Acessórios,10,10,6702.45,670.25,NK,56
-3,McDonald's,Gastronomia,143,90,6568.01,45.93,NK,57
-3,Bottero,Calçados,9,9,6322.03,702.45,NK,58
-3,Life by Vivara,Joalheria,11,10,6298.0,572.55,NK,59
-3,Feng Cheng,Gastronomia,78,57,5937.51,76.12,NK,60
-3,Anjos Colchões & Sofás,Casa e Decoração,1,1,5899.0,5899.0,NK,61
-3,Kfc,Gastronomia,111,78,5809.98,52.34,NK,62
-3,Mini Kalzone,Gastronomia,246,145,5715.7,23.23,NK,63
-3,Belshop,Beleza e Bem-estar,42,33,5701.01,135.74,NK,64
+3,Bottero,Calçados,11,11,7311.83,664.71,NK,53
+3,Intimissimi,Moda Feminina,11,10,7247.06,658.82,NK,54
+3,McDonald's,Gastronomia,152,97,7040.41,46.32,NK,55
+3,Lupo,Moda,39,36,7037.0,180.44,NK,56
+3,Life by Vivara,Joalheria,12,11,6748.0,562.33,NK,57
+3,Kombina Felice,Gastronomia - Restaurante,30,23,6740.13,224.67,NK,58
+3,Laci Baruffi,Presentes e Acessórios,10,10,6702.45,670.25,NK,59
+3,Kfc,Gastronomia,120,85,6399.08,53.33,NK,60
+3,Feng Cheng,Gastronomia,79,58,6038.51,76.44,NK,61
+3,Mini Kalzone,Gastronomia,258,149,5987.7,23.21,NK,62
+3,Anjos Colchões & Sofás,Casa e Decoração,1,1,5899.0,5899.0,NK,63
+3,Belshop,Beleza e Bem-estar,44,35,5887.93,133.82,NK,64
 3,LIVE!,Moda,14,14,5695.76,406.84,NK,65
 3,Victor Hugo,Presentes e Acessórios,2,2,5561.99,2781.0,NK,66
-3,Clube Melissa,Calçados,15,13,5302.93,353.53,NK,67
-3,Café Cultura,Gastronomia,119,68,5029.45,42.26,NK,68
-3,Cavezzale,Presentes e Acessórios,12,11,4876.31,406.36,NK,69
+3,Clube Melissa,Calçados,16,14,5472.83,342.05,NK,67
+3,Cavezzale,Presentes e Acessórios,14,13,5465.91,390.42,NK,68
+3,Café Cultura,Gastronomia,120,69,5129.45,42.75,NK,69
 3,OJO,Ótica,4,4,4850.0,1212.5,NK,70
 3,General Lyy,Moda,18,15,4717.72,262.1,NK,71
 3,Claro,Telefonia,2,1,4699.0,2349.5,NK,72
 3,Natura,Beleza e Bem-estar,41,38,4512.46,110.06,NK,73
 3,TIM,Telefonia,1,1,4487.76,4487.76,NK,74
-3,World Tennis,Calçados,10,9,4257.63,425.76,NK,75
-3,Mamma Mia Express,Gastronomia,68,51,4029.51,59.26,NK,76
-3,Kings Sneakers,Calçados,6,6,3819.1,636.52,NK,77
-3,Due Sapori,Gastronomia,62,45,3741.9,60.35,NK,78
-3,Ophicina Footwear,Moda,5,5,3684.48,736.9,NK,79
-3,Authentic Feet,Moda,6,6,3430.43,571.74,NK,80
-3,Freddo,Gastronomia,79,61,3336.0,42.23,NK,81
-3,Reserva,Moda,6,6,3180.0,530.0,NK,82
-3,Burger King,Gastronomia,55,42,3080.45,56.01,NK,83
-3,Ótica Chroma,Ótica,2,2,3018.0,1509.0,NK,84
-3,Tech Smart,Eletrônicos,11,11,2778.9,252.63,NK,85
-3,Usaflex,Calçados,7,7,2768.93,395.56,NK,86
-3,Daniela Tombini,Moda,8,5,2682.24,335.28,NK,87
-3,Crocs,Calçados,5,5,2650.0,530.0,NK,88
-3,WePink,Beleza e Bem-estar,18,16,2574.1,143.01,NK,89
-3,Orientali,Gastronomia,40,26,2527.13,63.18,NK,90
-3,O Boticário,Beleza e Bem-estar,23,21,2470.05,107.39,NK,91
-3,Cabanas,Moda,6,6,2305.69,384.28,NK,92
-3,Pizza Hut,Gastronomia,32,26,2271.9,71.0,NK,93
-3,Saint Germain,Joalheria,3,3,2266.3,755.43,NK,94
-3,BioMundo Produtos Naturais,Beleza e Bem-estar,17,16,2258.69,132.86,NK,95
-3,Divino Fogão,Gastronomia,44,34,2243.49,50.99,NK,96
-3,Zee Rucci,Moda Feminina,14,13,2204.84,157.49,NK,97
-3,Vialaser,Beleza e Bem-estar,3,3,2092.57,697.52,NK,98
-3,L'Occitane Au Brésil,Beleza e Bem-estar,13,12,2079.8,159.98,NK,99
-3,GNC Cinemas,Lazer,35,29,1990.5,56.87,NK,100
-3,Calzedonia,Moda Feminina,10,9,1974.83,197.48,NK,101
-3,Subway,Gastronomia,39,24,1886.03,48.36,NK,102
-3,L'Occitane en Provence,Beleza e Bem-estar,6,5,1663.4,277.23,NK,103
-3,Gelato Borelli,Gastronomia,40,29,1636.4,40.91,NK,104
+3,Mamma Mia Express,Gastronomia,72,54,4383.51,60.88,NK,75
+3,World Tennis,Calçados,10,9,4257.63,425.76,NK,76
+3,Ophicina Footwear,Moda,6,6,3937.48,656.25,NK,77
+3,Due Sapori,Gastronomia,64,46,3872.14,60.5,NK,78
+3,Kings Sneakers,Calçados,6,6,3819.1,636.52,NK,79
+3,Freddo,Gastronomia,84,64,3496.0,41.62,NK,80
+3,Authentic Feet,Moda,6,6,3430.43,571.74,NK,81
+3,Calzedonia,Moda Feminina,13,11,3347.85,257.53,NK,82
+3,Reserva,Moda,6,6,3180.0,530.0,NK,83
+3,Burger King,Gastronomia,56,43,3127.35,55.85,NK,84
+3,Ótica Chroma,Ótica,2,2,3018.0,1509.0,NK,85
+3,Tech Smart,Eletrônicos,11,11,2778.9,252.63,NK,86
+3,Usaflex,Calçados,7,7,2768.93,395.56,NK,87
+3,Daniela Tombini,Moda,8,5,2682.24,335.28,NK,88
+3,Crocs,Calçados,5,5,2650.0,530.0,NK,89
+3,WePink,Beleza e Bem-estar,18,16,2574.1,143.01,NK,90
+3,O Boticário,Beleza e Bem-estar,23,21,2529.6,109.98,NK,91
+3,Orientali,Gastronomia,40,26,2527.13,63.18,NK,92
+3,Divino Fogão,Gastronomia,47,35,2356.49,50.14,NK,93
+3,Cabanas,Moda,6,6,2305.69,384.28,NK,94
+3,BioMundo Produtos Naturais,Beleza e Bem-estar,19,18,2304.67,121.3,NK,95
+3,Pizza Hut,Gastronomia,32,26,2271.9,71.0,NK,96
+3,Saint Germain,Joalheria,3,3,2266.3,755.43,NK,97
+3,Zee Rucci,Moda Feminina,14,13,2204.84,157.49,NK,98
+3,L'Occitane Au Brésil,Beleza e Bem-estar,14,13,2144.7,153.19,NK,99
+3,Vialaser,Beleza e Bem-estar,3,3,2092.57,697.52,NK,100
+3,GNC Cinemas,Lazer,38,31,2062.5,54.28,NK,101
+3,L'Occitane en Provence,Beleza e Bem-estar,7,6,1992.4,284.63,NK,102
+3,Subway,Gastronomia,40,25,1936.83,48.42,NK,103
+3,Gelato Borelli,Gastronomia,41,29,1659.4,40.47,NK,104
 3,MB Acessórios,Presentes e Acessórios,15,13,1634.8,108.99,NK,105
 3,Sinhá Benta Café,Gastronomia,22,17,1596.87,72.58,NK,106
-3,Chiquinho Sorvetes,Gastronomia,58,42,1473.5,25.41,NK,107
-3,Mr. Cheff,Gastronomia,16,4,1466.21,91.64,NK,108
-3,Portus Padaria Artesanal,Gastronomia,23,16,1349.4,58.67,NK,109
-3,Estação Choperia,Gastronomia,26,19,1341.0,51.58,NK,110
-3,Empório DUHomem,Moda,3,3,1280.7,426.9,NK,111
-3,Maze,Calçados,2,1,1189.86,594.93,NK,112
-3,GrandVision by Fototica,Ótica,4,2,1134.9,283.73,NK,113
-3,Alison Salles Hair Stylist,Salão de Beleza | Barbearia,6,6,1107.2,184.53,NK,114
-3,Chilli Beans,Ótica,4,4,1085.88,271.47,NK,115
-3,Rei Do Mate,Gastronomia,24,19,1073.1,44.71,NK,116
+3,Chiquinho Sorvetes,Gastronomia,64,44,1565.5,24.46,NK,107
+3,Empório DUHomem,Moda,4,4,1555.6,388.9,NK,108
+3,Mr. Cheff,Gastronomia,16,4,1466.21,91.64,NK,109
+3,Estação Choperia,Gastronomia,28,20,1397.0,49.89,NK,110
+3,Portus Padaria Artesanal,Gastronomia,23,16,1349.4,58.67,NK,111
+3,Alison Salles Hair Stylist,Salão de Beleza | Barbearia,7,7,1344.2,192.03,NK,112
+3,Maze,Calçados,2,1,1189.86,594.93,NK,113
+3,GrandVision by Fototica,Ótica,4,2,1134.9,283.73,NK,114
+3,Rei Do Mate,Gastronomia,25,20,1101.1,44.04,NK,115
+3,Chilli Beans,Ótica,4,4,1085.88,271.47,NK,116
 3,AJ FANS Neumarkt,Promocional,2,2,1000.0,500.0,NK,117
-3,Pingu Brinquedos,Infantil,7,7,927.3,132.47,NK,118
-3,SmartCase,Eletrônicos,3,3,688.8,229.6,NK,119
+3,SmartCase,Eletrônicos,4,4,938.8,234.7,NK,118
+3,Pingu Brinquedos,Infantil,7,7,927.3,132.47,NK,119
 3,Unizushi,Gastronomia,2,2,676.5,338.25,NK,120
 3,QÓculos,Ótica,3,3,583.43,194.48,NK,121
 3,Camarão Express,Gastronomia,8,7,425.9,53.24,NK,122
@@ -439,54 +441,54 @@
 3,Mc Donald´s Quiosque 1,Fast Food,6,6,85.8,14.3,NK,127
 3,McDonald´s Quiosque,Gastronomia,4,3,85.4,21.35,NK,128
 3,LAtte Art Coffee Cafeteria,Gastronomia,2,2,40.0,20.0,NK,129
-4,Sabor Brasileiro,Gastronomia,601,39,77565.46,129.06,NR,1
-4,Havan,Casa e Decoração,240,163,63184.43,263.27,NR,2
-4,Atacadão,Supermercado,394,178,54639.23,138.68,NR,3
-4,Pittol,Calçados,107,79,27777.28,259.6,NR,4
-4,Renner,Moda,102,83,24731.71,242.47,NR,5
-4,Riachuelo,Moda,76,69,20110.48,264.61,NR,6
-4,Samsung,Eletrônicos,2,1,19387.0,9693.5,NR,7
-4,Centauro,Esportes,46,39,19190.36,417.18,NR,8
-4,Cacau Show,Gastronomia,131,95,19125.33,145.99,NR,9
-4,Lojas Americanas,Eletrodomésticos,175,135,16575.68,94.72,NR,10
-4,Magazine Luiza,Eletrodomésticos,11,10,12933.65,1175.79,NR,11
-4,Empório DuHomem,Moda,21,6,12200.82,580.99,NR,12
-4,JCanedo,Moda,10,10,11023.08,1102.31,NR,13
-4,Avatim,Beleza e Bem-estar,70,24,10907.0,155.81,NR,14
-4,Superlegal Brinquedos,Infantil,52,44,10724.1,206.23,NR,15
-4,Idéli.oui,Beleza e Bem-estar,24,22,8785.06,366.04,NR,16
-4,Motorola,Telefonia,2,2,8348.0,4174.0,NR,17
-4,Cobasi,Pets,72,60,8025.14,111.46,NR,18
-4,Burger King,Gastronomia,119,48,7666.66,64.43,NR,19
-4,Livrarias Catarinense,Livrarias,58,52,7311.16,126.05,NR,20
-4,Mc Donalds,Gastronomia,97,69,5068.01,52.25,NR,21
-4,Mini Kalzone,Gastronomia,191,129,4582.6,23.99,NR,22
-4,Leo Cosméticos,Beleza e Bem-estar,57,52,4236.73,74.33,NR,23
-4,Panvel Farmácias,Farmácias,49,41,4230.33,86.33,NR,24
-4,Hering,Moda,12,11,4178.71,348.23,NR,25
-4,Toni Toys,Infantil,13,13,3518.81,270.68,NR,26
-4,Vivara,Joalheria,6,5,3401.72,566.95,NR,27
+4,Sabor Brasileiro,Gastronomia,617,39,79772.02,129.29,NR,1
+4,Havan,Casa e Decoração,245,166,63818.12,260.48,NR,2
+4,Atacadão,Supermercado,427,189,60154.53,140.88,NR,3
+4,Pittol,Calçados,108,80,27936.28,258.67,NR,4
+4,Renner,Moda,107,88,25573.75,239.01,NR,5
+4,Riachuelo,Moda,77,69,20370.46,264.55,NR,6
+4,Centauro,Esportes,48,41,20289.35,422.69,NR,7
+4,Magazine Luiza,Eletrodomésticos,13,12,19710.88,1516.22,NR,8
+4,Cacau Show,Gastronomia,135,99,19631.3,145.42,NR,9
+4,Samsung,Eletrônicos,2,1,19387.0,9693.5,NR,10
+4,Lojas Americanas,Eletrodomésticos,179,139,16932.3,94.59,NR,11
+4,Superlegal Brinquedos,Infantil,56,45,12598.93,224.98,NR,12
+4,Empório DuHomem,Moda,21,6,12200.82,580.99,NR,13
+4,Avatim,Beleza e Bem-estar,71,25,11201.0,157.76,NR,14
+4,JCanedo,Moda,10,10,11023.08,1102.31,NR,15
+4,Idéli.oui,Beleza e Bem-estar,26,24,10120.96,389.27,NR,16
+4,Burger King,Gastronomia,125,51,8376.96,67.02,NR,17
+4,Motorola,Telefonia,2,2,8348.0,4174.0,NR,18
+4,Cobasi,Pets,73,60,8048.04,110.25,NR,19
+4,Livrarias Catarinense,Livrarias,59,53,7340.96,124.42,NR,20
+4,Mc Donalds,Gastronomia,102,72,5247.71,51.45,NR,21
+4,Mini Kalzone,Gastronomia,197,131,4712.4,23.92,NR,22
+4,Vivara,Joalheria,8,7,4571.72,571.46,NR,23
+4,Leo Cosméticos,Beleza e Bem-estar,60,55,4415.71,73.6,NR,24
+4,Panvel Farmácias,Farmácias,51,43,4360.79,85.51,NR,25
+4,Hering,Moda,12,11,4178.71,348.23,NR,26
+4,Toni Toys,Infantil,13,13,3518.81,270.68,NR,27
 4,World Tennis,Calçados,10,10,3321.0,332.1,NR,28
-4,KFC,Fast Food,56,45,3000.4,53.58,NR,29
+4,KFC,Fast Food,57,46,3073.3,53.92,NR,29
 4,Jcel Eletrônicos,Telefonia,1,1,2900.0,2900.0,NR,30
 4,Beagle,Moda,7,7,2788.65,398.38,NR,31
-4,O Boticário,Beleza e Bem-estar,28,24,2753.47,98.34,NR,32
-4,Mr. Cheff,Gastronomia,46,17,2548.29,55.4,NR,33
-4,Paquetá,Esportes,13,10,2482.77,190.98,NR,34
+4,O Boticário,Beleza e Bem-estar,29,25,2754.46,94.98,NR,32
+4,Paquetá,Esportes,14,11,2742.77,195.91,NR,33
+4,Mr. Cheff,Gastronomia,47,18,2593.27,55.18,NR,34
 4,Bkko,Moda,4,3,2449.5,612.38,NR,35
 4,Arezzo,Calçados,5,5,2236.11,447.22,NR,36
 4,Express Grill,Gastronomia,45,21,2146.96,47.71,NR,37
 4,Pratafina,Presentes e Acessórios,11,11,2024.0,184.0,NR,38
-4,Zamban Grill,Gastronomia,12,9,1958.86,163.24,NR,39
-4,Polo Wear,Moda,13,13,1932.3,148.64,NR,40
-4,Óticas Carol,Ótica,3,2,1807.74,602.58,NR,41
-4,Cinépolis,Lazer,21,18,1782.0,84.86,NR,42
-4,Divino Fogão,Gastronomia - Restaurante,34,16,1748.35,51.42,NR,43
+4,Polo Wear,Moda,14,14,1992.29,142.31,NR,39
+4,Zamban Grill,Gastronomia,12,9,1958.86,163.24,NR,40
+4,Divino Fogão,Gastronomia - Restaurante,35,17,1812.77,51.79,NR,41
+4,Óticas Carol,Ótica,3,2,1807.74,602.58,NR,42
+4,Cinépolis,Lazer,21,18,1782.0,84.86,NR,43
 4,Kings Sneakers,Moda,1,1,1469.0,1469.0,NR,44
 4,Cia do Terno,Moda,5,4,1320.4,264.08,NR,45
 4,Natura,Beleza e Bem-estar,13,13,1319.75,101.52,NR,46
-4,Game Mania,Eletrônicos,4,4,1248.8,312.2,NR,47
-4,Subway,Gastronomia,23,19,1242.0,54.0,NR,48
+4,Subway,Gastronomia,24,20,1305.8,54.41,NR,47
+4,Game Mania,Eletrônicos,4,4,1248.8,312.2,NR,48
 4,A Fabulosa,Presentes e Acessórios,30,25,1121.57,37.39,NR,49
 4,Chiquinho Sorvetes,Gastronomia - Sorvetes,31,23,996.0,32.13,NR,50
 4,La Dullie,Gastronomia,19,14,971.0,51.11,NR,51
@@ -498,7 +500,7 @@
 4,Estação Choperia,Gastronomia,14,6,763.51,54.54,NR,57
 4,Casas Bahia,Eletrodomésticos,1,1,699.0,699.0,NR,58
 4,Sinhá Benta,Gastronomia,15,12,673.5,44.9,NR,59
-4,Bob's,Gastronomia,19,16,619.27,32.59,NR,60
+4,Bob's,Gastronomia,20,17,653.27,32.66,NR,60
 4,ALLMINI,Presentes e Acessórios,10,9,607.94,60.79,NR,61
 4,Senhora Farinha,Gastronomia,6,6,279.49,46.58,NR,62
 4,Go Coffee,Gastronomia,4,4,254.5,63.62,NR,63
@@ -507,240 +509,242 @@
 4,The Family's Burger & Pizza,Gastronomia,3,3,191.63,63.88,NR,66
 4,Missbely,Presentes e Acessórios,2,2,134.8,67.4,NR,67
 4,Celulares e Cia.,Eletrônicos,1,1,89.0,89.0,NR,68
-4,TOUTI Blumenau,Beleza e Bem-estar,1,1,79.9,79.9,NR,69
-4,Orientali,Gastronomia,1,1,79.73,79.73,NR,70
-4,Bob's (Quiosque 1),Gastronomia - Sorvetes,3,2,63.0,21.0,NR,71
+4,Bob's (Quiosque 1),Gastronomia - Sorvetes,4,3,84.0,21.0,NR,69
+4,TOUTI Blumenau,Beleza e Bem-estar,1,1,79.9,79.9,NR,70
+4,Orientali,Gastronomia,1,1,79.73,79.73,NR,71
 4,Bob's (Quiosque 2),Gastronomia - Sorvetes,2,2,36.0,18.0,NR,72
 4,Fun Case,Eletrônicos,1,1,20.0,20.0,NR,73
 4,H'Cel,Eletrônicos,1,1,16.0,16.0,NR,74
 4,Vivo,Telefonia,2,2,14.83,7.42,NR,75
-5,Renner,Moda,203,161,50911.18,250.79,GS,1
-5,Riachuelo,Moda,135,118,31802.74,235.58,GS,2
-5,C&A,Moda,110,91,29240.57,265.82,GS,3
-5,Beagle,Moda,48,24,25035.83,521.58,GS,4
-5,Centauro,Esportes,71,64,23577.49,332.08,GS,5
-5,Shoulder,Moda Feminina,12,12,18508.29,1542.36,GS,6
-5,Hering,Moda,53,48,17881.13,337.38,GS,7
-5,Vivo,Telefonia,16,4,17217.1,1076.07,GS,8
-5,Idéli Oui,Beleza e Bem-estar,39,29,16562.43,424.68,GS,9
-5,Coliseu,Joalheria,14,5,16028.95,1144.92,GS,10
-5,Pittol,Calçados,58,51,15507.64,267.37,GS,11
-5,Le Lis Blanc,Moda,15,13,14844.16,989.61,GS,12
-5,Levi's,Moda,23,21,14022.74,609.68,GS,13
-5,Lindt,Gastronomia,65,54,12199.25,187.68,GS,14
-5,Polo Wear,Moda,35,20,11761.9,336.05,GS,15
-5,Carter's,Infantil,21,21,11235.5,535.02,GS,16
+5,Renner,Moda,214,169,53470.05,249.86,GS,1
+5,Riachuelo,Moda,144,125,34462.4,239.32,GS,2
+5,C&A,Moda,116,96,30232.44,260.62,GS,3
+5,Shoulder,Moda Feminina,18,16,25503.93,1416.88,GS,4
+5,Beagle,Moda,49,25,25275.82,515.83,GS,5
+5,Centauro,Esportes,73,66,24101.91,330.16,GS,6
+5,Coliseu,Joalheria,17,7,20137.95,1184.59,GS,7
+5,Hering,Moda,54,49,18001.12,333.35,GS,8
+5,Le Lis Blanc,Moda,17,15,17473.56,1027.86,GS,9
+5,Vivo,Telefonia,16,4,17217.1,1076.07,GS,10
+5,Idéli Oui,Beleza e Bem-estar,39,29,16562.43,424.68,GS,11
+5,Pittol,Calçados,60,53,16385.81,273.1,GS,12
+5,Levi's,Moda,25,23,15315.08,612.6,GS,13
+5,Lindt,Gastronomia,67,56,12409.23,185.21,GS,14
+5,Polo Wear,Moda,36,21,11966.88,332.41,GS,15
+5,Carter's,Infantil,23,23,11735.46,510.24,GS,16
 5,Youcom,Moda,29,23,10826.31,373.32,GS,17
 5,Live!,Moda,14,13,10813.78,772.41,GS,18
 5,Outback Steakhouse,Gastronomia,53,40,10644.99,200.85,GS,19
-5,Panvel Farmácias,Farmácias,76,63,9236.18,121.53,GS,20
-5,Granado Phamácias,Farmácias,44,36,9140.1,207.73,GS,21
-5,Farm,Moda Feminina,18,17,9080.91,504.5,GS,22
-5,Superlegal,Infantil,56,48,9008.3,160.86,GS,23
-5,Dona Torta,Gastronomia,151,104,8974.43,59.43,GS,24
-5,Cotton On,Moda,35,30,8725.47,249.3,GS,25
-5,Kalunga,Papelaria,90,75,8664.56,96.27,GS,26
-5,Arezzo,Calçados,12,12,8325.9,693.82,GS,27
-5,Aramis Menswear,Moda,6,5,8057.8,1342.97,GS,28
-5,Damyller,Moda,8,8,7562.0,945.25,GS,29
-5,Livrarias Curitiba,Livrarias,86,74,7445.26,86.57,GS,30
-5,Brooksfield,Moda,6,5,7024.02,1170.67,GS,31
-5,Ri Happy,Infantil,42,33,6998.62,166.63,GS,32
-5,Chuá Brand,Moda,3,3,6632.26,2210.75,GS,33
-5,JCanedo,Moda,10,8,6498.34,649.83,GS,34
-5,Leo Cosméticos,Beleza e Bem-estar,91,81,6214.11,68.29,GS,35
-5,Makenji,Moda,15,15,6172.56,411.5,GS,36
-5,Pop Me,Moda,23,22,5795.5,251.98,GS,37
-5,Magazine Luiza,Eletrodomésticos,6,6,5694.5,949.08,GS,38
-5,Luiza Barcelos,Calçados,4,4,5658.7,1414.68,GS,39
-5,World Tennis,Calçados,7,7,5476.95,782.42,GS,40
-5,Mini Kalzone,Gastronomia,216,86,5196.5,24.06,GS,41
-5,VIRUS 41,Calçados,9,9,5122.13,569.13,GS,42
-5,Democrata,Calçados,14,12,5083.45,363.1,GS,43
-5,Madero,Gastronomia,29,24,5057.46,174.4,GS,44
-5,Anacapri,Calçados Femininos,21,20,4958.82,236.13,GS,45
-5,Claro,Telefonia,1,1,4858.2,4858.2,GS,46
-5,Life Vivara,Joalheria,9,9,4827.0,536.33,GS,47
-5,Stanley,Presentes e Acessórios,11,11,4807.3,437.03,GS,48
-5,Track&Field,Moda,11,9,4664.16,424.01,GS,49
-5,Pratafina,Presentes e Acessórios,25,16,4612.0,184.48,GS,50
-5,Calvin Klein,Moda,6,6,4588.9,764.82,GS,51
-5,HOPE Moda íntima,Moda Feminina,16,16,4468.5,279.28,GS,52
-5,Feng Cheng,Gastronomia,72,38,4446.7,61.76,GS,53
-5,Audithorium,Moda,7,6,4280.25,611.46,GS,54
-5,Plié,Moda,10,10,3696.3,369.63,GS,55
-5,Padrão,Moda,3,3,3566.0,1188.67,GS,56
-5,KFC,Gastronomia,67,44,3514.89,52.46,GS,57
-5,Kings Sneakers,Moda,3,3,3348.84,1116.28,GS,58
-5,Wepink,Não informado,21,18,3051.49,145.31,GS,59
-5,Ótica Chilli Beans,Ótica,3,3,2970.97,990.32,GS,60
-5,Lupo,Moda,9,9,2844.28,316.03,GS,61
-5,Paquetá Esportes,Esportes,11,10,2559.79,232.71,GS,62
-5,O Boticário,Beleza e Bem-estar,33,27,2513.68,76.17,GS,63
-5,Reserva,Moda,5,5,2477.0,495.4,GS,64
-5,Chilli Beans,Ótica,4,4,2453.84,613.46,GS,65
-5,Calçados Pegada,Calçados,3,3,2434.97,811.66,GS,66
-5,Grano Pasta Ristorante,Gastronomia,48,14,2395.6,49.91,GS,67
-5,Morana Acessórios,Presentes e Acessórios,16,14,2373.3,148.33,GS,68
-5,Kib´s,Kids,35,24,2274.46,64.98,GS,69
-5,OJO Sol & Grau,Ótica,2,2,2120.0,1060.0,GS,70
-5,Mamma Mia,Gastronomia,8,8,2094.9,261.86,GS,71
-5,Criamigos,Presentes e Acessórios,9,6,2077.9,230.88,GS,72
-5,Montana Grill,Gastronomia,38,23,2038.76,53.65,GS,73
-5,General Lyy,Moda,12,9,2032.49,169.37,GS,74
-5,Valenttina,Moda,29,22,2022.69,69.75,GS,75
-5,Burger King,Gastronomia,36,29,1994.29,55.4,GS,76
-5,.,Calçados,3,3,1979.96,659.99,GS,77
-5,Bibi Calçados,Calçados,7,7,1865.07,266.44,GS,78
-5,LUZ DA LUA,Calçados,3,3,1841.4,613.8,GS,79
-5,Casa Bauducco,Gastronomia,26,24,1804.62,69.41,GS,80
-5,Café Cultura,Gastronomia,38,25,1578.03,41.53,GS,81
-5,Purpurata,Presentes e Acessórios,9,9,1567.55,174.17,GS,82
-5,Subway,Gastronomia,35,25,1567.2,44.78,GS,83
-5,Bagaggio,Presentes e Acessórios,6,6,1561.3,260.22,GS,84
-5,ADCOS,Beleza e Bem-estar,3,3,1550.9,516.97,GS,85
-5,Officina do Celular,Eletrônicos,5,4,1519.65,303.93,GS,86
-5,Natura,Beleza e Bem-estar,11,11,1448.2,131.65,GS,87
-5,Metroville Prime Grill,Gastronomia,31,19,1384.69,44.67,GS,88
-5,Griletto,Gastronomia - Restaurante,25,16,1354.52,54.18,GS,89
-5,CANTINA MATTERELLO RESTAURANTE E PASTELARIA,Gastronomia,33,18,1302.14,39.46,GS,90
-5,Havaianas,Calçados,10,10,1253.8,125.38,GS,91
-5,NOHA SHOES,Calçados,3,3,983.1,327.7,GS,92
-5,Inovathi Acessórios,Presentes e Acessórios,3,3,929.87,309.96,GS,93
-5,Gnc Joinville Garten,Lazer,10,6,862.5,86.25,GS,94
-5,Milon,Infantil,5,5,859.6,171.92,GS,95
-5,Crocs,Calçados,3,3,845.0,281.67,GS,96
-5,Jah Açaí Joinville,Gastronomia - Sorvetes,31,7,809.77,26.12,GS,97
-5,Tennis Place,Calçados,2,2,799.98,399.99,GS,98
-5,Botoclinic,Beleza e Bem-estar,1,1,799.0,799.0,GS,99
-5,Gelato Borelli,Gastronomia - Sorvetes,14,13,748.0,53.43,GS,100
-5,Swell Poke,Gastronomia,11,9,674.0,61.27,GS,101
-5,Freddo,Gastronomia,16,16,640.0,40.0,GS,102
-5,Piastrini Joinville - Optica Machota,Ótica e Joalheria,1,1,635.0,635.0,GS,103
-5,Baummer Semijóias,Presentes e Acessórios,6,6,629.14,104.86,GS,104
-5,Shawarma Food Joinville,Gastronomia,11,8,578.3,52.57,GS,105
-5,L'occitane Au Brasil,Beleza e Bem-estar,4,4,535.94,133.99,GS,106
-5,Havan,Casa e Decoração,1,1,508.79,508.79,GS,107
-5,Acium,Presentes e Acessórios,1,1,476.0,476.0,GS,108
-5,Bull Prime Steak House,Gastronomia,2,2,422.0,211.0,GS,109
-5,CAPA FINA,Telefonia,5,4,357.53,71.51,GS,110
-5,Jack Simonéia Garten,Salão de Beleza | Barbearia,1,1,333.5,333.5,GS,111
-5,Samsung,Eletrônicos,1,1,309.0,309.0,GS,112
-5,TNG,Moda,1,1,299.98,299.98,GS,113
-5,Mundo Di Chocolate,Gastronomia,4,4,289.39,72.35,GS,114
-5,Chiquinho Sorvetes,Gastronomia - Sorvetes,12,12,253.5,21.12,GS,115
-5,SAINT GERMAIN STORE,Joalheria,1,1,249.9,249.9,GS,116
-5,Milky Moo,Gastronomia,6,4,234.0,39.0,GS,117
-5,Express Grill,Gastronomia - Restaurante,3,2,182.85,60.95,GS,118
-5,Vivara,Joalheria,1,1,150.0,150.0,GS,119
-5,Wow Park,Infantil,1,1,140.0,140.0,GS,120
-5,Manly,Moda Feminina,1,1,129.91,129.91,GS,121
+5,Panvel Farmácias,Farmácias,87,70,10375.67,119.26,GS,20
+5,VIRUS 41,Calçados,14,12,10339.94,738.57,GS,21
+5,Granado Phamácias,Farmácias,46,38,9680.43,210.44,GS,22
+5,Dona Torta,Gastronomia,161,108,9481.93,58.89,GS,23
+5,Farm,Moda Feminina,19,18,9359.91,492.63,GS,24
+5,Arezzo,Calçados,13,13,9325.7,717.36,GS,25
+5,Superlegal,Infantil,58,50,9065.29,156.3,GS,26
+5,Cotton On,Moda,36,31,8957.37,248.82,GS,27
+5,Kalunga,Papelaria,95,77,8854.42,93.2,GS,28
+5,Aramis Menswear,Moda,6,5,8057.8,1342.97,GS,29
+5,Damyller,Moda,9,9,7711.0,856.78,GS,30
+5,Livrarias Curitiba,Livrarias,89,77,7610.86,85.52,GS,31
+5,Chuá Brand,Moda,4,4,7306.06,1826.52,GS,32
+5,Ri Happy,Infantil,44,34,7121.62,161.85,GS,33
+5,Brooksfield,Moda,6,5,7024.02,1170.67,GS,34
+5,Leo Cosméticos,Beleza e Bem-estar,99,89,6544.1,66.1,GS,35
+5,JCanedo,Moda,10,8,6498.34,649.83,GS,36
+5,Makenji,Moda,15,15,6172.56,411.5,GS,37
+5,Pop Me,Moda,24,23,5975.4,248.98,GS,38
+5,Democrata,Calçados,15,13,5883.25,392.22,GS,39
+5,Magazine Luiza,Eletrodomésticos,6,6,5694.5,949.08,GS,40
+5,Luiza Barcelos,Calçados,4,4,5658.7,1414.68,GS,41
+5,World Tennis,Calçados,7,7,5476.95,782.42,GS,42
+5,Mini Kalzone,Gastronomia,223,88,5377.0,24.11,GS,43
+5,Madero,Gastronomia,31,26,5283.46,170.43,GS,44
+5,Track&Field,Moda,13,11,5096.39,392.03,GS,45
+5,Anacapri,Calçados Femininos,21,20,4958.82,236.13,GS,46
+5,Claro,Telefonia,1,1,4858.2,4858.2,GS,47
+5,Life Vivara,Joalheria,9,9,4827.0,536.33,GS,48
+5,Stanley,Presentes e Acessórios,11,11,4807.3,437.03,GS,49
+5,Feng Cheng,Gastronomia,75,41,4613.79,61.52,GS,50
+5,Pratafina,Presentes e Acessórios,25,16,4612.0,184.48,GS,51
+5,Calvin Klein,Moda,6,6,4588.9,764.82,GS,52
+5,Botoclinic,Beleza e Bem-estar,3,2,4497.0,1499.0,GS,53
+5,HOPE Moda íntima,Moda Feminina,16,16,4468.5,279.28,GS,54
+5,Audithorium,Moda,7,6,4280.25,611.46,GS,55
+5,Kings Sneakers,Moda,4,4,4098.74,1024.68,GS,56
+5,Plié,Moda,10,10,3696.3,369.63,GS,57
+5,KFC,Gastronomia,70,45,3630.71,51.87,GS,58
+5,Padrão,Moda,3,3,3566.0,1188.67,GS,59
+5,Wepink,Não informado,22,19,3221.39,146.43,GS,60
+5,Morana Acessórios,Presentes e Acessórios,18,16,3041.6,168.98,GS,61
+5,O Boticário,Beleza e Bem-estar,39,32,3034.19,77.8,GS,62
+5,Lupo,Moda,10,10,2974.08,297.41,GS,63
+5,Ótica Chilli Beans,Ótica,3,3,2970.97,990.32,GS,64
+5,Bagaggio,Presentes e Acessórios,7,7,2760.3,394.33,GS,65
+5,Mamma Mia,Gastronomia,10,10,2688.9,268.89,GS,66
+5,Paquetá Esportes,Esportes,11,10,2559.79,232.71,GS,67
+5,Reserva,Moda,5,5,2477.0,495.4,GS,68
+5,Chilli Beans,Ótica,4,4,2453.84,613.46,GS,69
+5,Kib´s,Kids,38,25,2441.46,64.25,GS,70
+5,Grano Pasta Ristorante,Gastronomia,49,15,2438.6,49.77,GS,71
+5,Calçados Pegada,Calçados,3,3,2434.97,811.66,GS,72
+5,Montana Grill,Gastronomia,40,24,2236.16,55.9,GS,73
+5,OJO Sol & Grau,Ótica,2,2,2120.0,1060.0,GS,74
+5,Valenttina,Moda,29,22,2109.59,72.74,GS,75
+5,Burger King,Gastronomia,38,31,2097.99,55.21,GS,76
+5,Criamigos,Presentes e Acessórios,9,6,2077.9,230.88,GS,77
+5,General Lyy,Moda,12,9,2032.49,169.37,GS,78
+5,.,Calçados,3,3,1979.96,659.99,GS,79
+5,Casa Bauducco,Gastronomia,27,25,1896.62,70.25,GS,80
+5,Bibi Calçados,Calçados,7,7,1865.07,266.44,GS,81
+5,LUZ DA LUA,Calçados,3,3,1841.4,613.8,GS,82
+5,ADCOS,Beleza e Bem-estar,4,4,1699.66,424.92,GS,83
+5,Purpurata,Presentes e Acessórios,10,10,1687.45,168.74,GS,84
+5,Subway,Gastronomia,38,27,1669.1,43.92,GS,85
+5,Café Cultura,Gastronomia,40,27,1620.03,40.5,GS,86
+5,Metroville Prime Grill,Gastronomia,33,21,1571.64,47.63,GS,87
+5,Officina do Celular,Eletrônicos,5,4,1519.65,303.93,GS,88
+5,Natura,Beleza e Bem-estar,12,12,1506.2,125.52,GS,89
+5,CANTINA MATTERELLO RESTAURANTE E PASTELARIA,Gastronomia,36,20,1375.93,38.22,GS,90
+5,Griletto,Gastronomia - Restaurante,25,16,1354.52,54.18,GS,91
+5,Havaianas,Calçados,10,10,1253.8,125.38,GS,92
+5,SAINT GERMAIN STORE,Joalheria,2,2,999.7,499.85,GS,93
+5,NOHA SHOES,Calçados,3,3,983.1,327.7,GS,94
+5,Inovathi Acessórios,Presentes e Acessórios,3,3,929.87,309.96,GS,95
+5,Jah Açaí Joinville,Gastronomia - Sorvetes,35,8,873.78,24.97,GS,96
+5,Gnc Joinville Garten,Lazer,10,6,862.5,86.25,GS,97
+5,Milon,Infantil,5,5,859.6,171.92,GS,98
+5,Crocs,Calçados,3,3,845.0,281.67,GS,99
+5,Gelato Borelli,Gastronomia - Sorvetes,15,14,806.0,53.73,GS,100
+5,Tennis Place,Calçados,2,2,799.98,399.99,GS,101
+5,Swell Poke,Gastronomia,13,10,784.0,60.31,GS,102
+5,Freddo,Gastronomia,17,16,656.0,38.59,GS,103
+5,Piastrini Joinville - Optica Machota,Ótica e Joalheria,1,1,635.0,635.0,GS,104
+5,Baummer Semijóias,Presentes e Acessórios,6,6,629.14,104.86,GS,105
+5,Shawarma Food Joinville,Gastronomia,11,8,578.3,52.57,GS,106
+5,L'occitane Au Brasil,Beleza e Bem-estar,4,4,535.94,133.99,GS,107
+5,Havan,Casa e Decoração,1,1,508.79,508.79,GS,108
+5,Manly,Moda Feminina,3,3,497.72,165.91,GS,109
+5,Acium,Presentes e Acessórios,1,1,476.0,476.0,GS,110
+5,Bull Prime Steak House,Gastronomia,2,2,422.0,211.0,GS,111
+5,Milky Moo,Gastronomia,11,4,396.0,36.0,GS,112
+5,CAPA FINA,Telefonia,5,4,357.53,71.51,GS,113
+5,Jack Simonéia Garten,Salão de Beleza | Barbearia,1,1,333.5,333.5,GS,114
+5,Samsung,Eletrônicos,1,1,309.0,309.0,GS,115
+5,TNG,Moda,1,1,299.98,299.98,GS,116
+5,Mundo Di Chocolate,Gastronomia,4,4,289.39,72.35,GS,117
+5,Chiquinho Sorvetes,Gastronomia - Sorvetes,12,12,253.5,21.12,GS,118
+5,Express Grill,Gastronomia - Restaurante,3,2,182.85,60.95,GS,119
+5,Vivara,Joalheria,1,1,150.0,150.0,GS,120
+5,Wow Park,Infantil,1,1,140.0,140.0,GS,121
 5,Avatim Cheiros Da Terra,Presentes e Acessórios,2,2,99.0,49.5,GS,122
 5,McDonald's,Gastronomia,2,2,97.5,48.75,GS,123
 5,Fini,Gastronomia,7,5,92.32,13.19,GS,124
 5,Tabacaria E Presentes Trevo,Serviços,1,1,89.9,89.9,GS,125
-6,Renner,Moda,189,153,55049.61,291.27,NS,1
+6,Renner,Moda,203,162,60115.14,296.13,NS,1
 6,Samsung,Eletrônicos,14,5,41306.5,2950.46,NS,2
-6,Colcci,Moda,26,11,36632.85,1408.96,NS,3
-6,Las Leñas Parrilla Uruguaya,Gastronomia,126,10,36232.6,287.56,NS,4
-6,C&A,Moda,112,91,29072.35,259.57,NS,5
+6,Las Leñas Parrilla Uruguaya,Gastronomia,129,10,36889.6,285.97,NS,3
+6,Colcci,Moda,27,11,36633.85,1356.81,NS,4
+6,C&A,Moda,114,93,29228.31,256.39,NS,5
 6,Centauro,Esportes,78,55,28565.65,366.23,NS,6
 6,Vivara,Joalheria,9,8,27950.0,3105.56,NS,7
-6,Riachuelo,Moda,92,82,22232.41,241.66,NS,8
+6,Riachuelo,Moda,101,90,23754.2,235.19,NS,8
 6,Cassol Centerlar,Casa e Decoração,46,35,18091.73,393.3,NS,9
-6,Tokaia,Moda,4,3,12820.0,3205.0,NS,10
-6,Empório Du Homem,Moda,6,5,12530.08,2088.35,NS,11
-6,Luz da Lua,Calçados Femininos,13,12,12285.9,945.07,NS,12
-6,Dudalina,Moda,11,10,11767.0,1069.73,NS,13
-6,Cobasi,Pets,90,68,11579.03,128.66,NS,14
-6,Békko,Moda,11,11,10603.5,963.95,NS,15
-6,Cacau Show,Gastronomia,59,45,9853.16,167.0,NS,16
-6,Live!,Moda,9,8,8600.82,955.65,NS,17
-6,Pittol,Calçados,30,27,8257.15,275.24,NS,18
-6,Livraria Catarinense,Livrarias,79,70,8163.21,103.33,NS,19
-6,Youcom,Moda,25,23,7449.31,297.97,NS,20
-6,Fátima Esportes,Esportes,15,13,7159.0,477.27,NS,21
-6,Arezzo,Calçados,12,11,7077.74,589.81,NS,22
-6,Damyller,Moda,4,4,7000.0,1750.0,NS,23
-6,Acuo,Moda,18,15,6822.24,379.01,NS,24
-6,Bagaggio,Presentes e Acessórios,10,10,6602.53,660.25,NS,25
-6,Kopenhagen,Não informado,49,44,6492.31,132.5,NS,26
-6,Panvel Farmácias,Farmácias,50,42,6241.15,124.82,NS,27
-6,Beagle,Moda,13,12,5963.97,458.77,NS,28
-6,Fátima Criança,Infantil,28,24,5779.69,206.42,NS,29
-6,Aramis,Moda,8,7,5557.71,694.71,NS,30
-6,Ritmi Studio,Moda Feminina,19,19,5550.4,292.13,NS,31
+6,Dudalina,Moda,13,11,13415.9,1031.99,NS,10
+6,Luz da Lua,Calçados Femininos,14,13,13115.7,936.84,NS,11
+6,Tokaia,Moda,4,3,12820.0,3205.0,NS,12
+6,Empório Du Homem,Moda,6,5,12530.08,2088.35,NS,13
+6,Cobasi,Pets,92,70,11967.94,130.09,NS,14
+6,Aramis,Moda,10,8,10965.71,1096.57,NS,15
+6,Békko,Moda,11,11,10603.5,963.95,NS,16
+6,Cacau Show,Gastronomia,62,48,10014.14,161.52,NS,17
+6,Live!,Moda,9,8,8600.82,955.65,NS,18
+6,Pittol,Calçados,31,28,8526.15,275.04,NS,19
+6,Livraria Catarinense,Livrarias,80,71,8295.21,103.69,NS,20
+6,Arezzo,Calçados,13,12,7977.64,613.66,NS,21
+6,Fátima Esportes,Esportes,16,14,7758.0,484.88,NS,22
+6,Bagaggio,Presentes e Acessórios,11,11,7482.23,680.2,NS,23
+6,Youcom,Moda,25,23,7449.31,297.97,NS,24
+6,Damyller,Moda,4,4,7000.0,1750.0,NS,25
+6,Acuo,Moda,18,15,6822.24,379.01,NS,26
+6,Kopenhagen,Não informado,49,44,6492.31,132.5,NS,27
+6,Panvel Farmácias,Farmácias,50,42,6241.15,124.82,NS,28
+6,Fátima Criança,Infantil,29,25,6068.69,209.27,NS,29
+6,Beagle,Moda,13,12,5963.97,458.77,NS,30
+6,Ritmi Studio,Moda Feminina,20,20,5650.3,282.52,NS,31
 6,Lança Perfume,Moda,3,3,5527.3,1842.43,NS,32
 6,GrandVision by Fototica,Ótica,3,3,5382.75,1794.25,NS,33
 6,BelShop,Beleza e Bem-estar,35,28,5135.52,146.73,NS,34
-6,Avatim,Beleza e Bem-estar,34,30,5013.5,147.46,NS,35
-6,Hope Nacoes Shopping,Outros,15,14,4948.0,329.87,NS,36
-6,Grandvision By Fototica,Gastronomia - Restaurante,3,2,4435.0,1478.33,NS,37
-6,Camicado,Casa e Decoração,20,14,4428.09,221.4,NS,38
-6,Strutura,Moda,15,8,4119.67,274.64,NS,39
-6,Camarão Express,Gastronomia,44,35,3888.02,88.36,NS,40
-6,Wepink,Beleza e Bem-estar,28,24,3436.7,122.74,NS,41
-6,Kings,Moda,5,2,3363.42,672.68,NS,42
-6,Chilli Beans,Ótica,6,6,3054.87,509.14,NS,43
-6,Adcos,Beleza e Bem-estar,4,4,3026.96,756.74,NS,44
-6,Mini Kalzone,Gastronomia,133,86,2982.1,22.42,NS,45
-6,Lupo,Moda,17,17,2957.55,173.97,NS,46
-6,Crocs,Calçados,10,10,2955.69,295.57,NS,47
-6,Me Linda,Farmácias,19,16,2927.1,154.06,NS,48
-6,Calvin Klein e Tommy Hilfiger,Moda,2,2,2815.0,1407.5,NS,49
-6,Reserva Nacoes Shopping,Moda,4,4,2813.0,703.25,NS,50
-6,Royal Trudel,Gastronomia,40,23,2632.19,65.8,NS,51
-6,Lojas Americanas,Supermercado,23,19,2587.72,112.51,NS,52
-6,Burger King,Gastronomia,46,38,2534.2,55.09,NS,53
-6,Outback SteakHouse,Gastronomia,11,11,2212.99,201.18,NS,54
-6,Havaianas,Calçados,24,22,2204.64,91.86,NS,55
-6,Ophicina Foot Wear,Não informado,2,2,2199.0,1099.5,NS,56
-6,World Tennis,Calçados,5,5,2159.92,431.98,NS,57
-6,Uebel Make Up,Beleza e Bem-estar,14,11,2106.08,150.43,NS,58
-6,Fátima Bebê,Infantil,10,8,2030.6,203.06,NS,59
-6,z Kfc,Gastronomia,45,37,2023.59,44.97,NS,60
-6,Tigre Maníacos,Esportes,8,7,2020.91,252.61,NS,61
-6,Santo Boteco,Gastronomia,24,14,1864.27,77.68,NS,62
-6,Ri Happy Baby,Infantil,14,13,1837.63,131.26,NS,63
-6,Mar de Maria,Moda,12,11,1808.11,150.68,NS,64
-6,Natura,Beleza e Bem-estar,16,16,1797.18,112.32,NS,65
-6,Officina Gelatiera,Gastronomia,28,18,1758.25,62.79,NS,66
-6,Griletto,Gastronomia,25,22,1748.2,69.93,NS,67
+6,Hope Nacoes Shopping,Outros,16,15,5127.0,320.44,NS,35
+6,Avatim,Beleza e Bem-estar,35,30,5049.5,144.27,NS,36
+6,Reserva Nacoes Shopping,Moda,5,5,5028.0,1005.6,NS,37
+6,Strutura,Moda,16,9,4791.61,299.48,NS,38
+6,Grandvision By Fototica,Gastronomia - Restaurante,3,2,4435.0,1478.33,NS,39
+6,Camicado,Casa e Decoração,20,14,4428.09,221.4,NS,40
+6,Wepink,Beleza e Bem-estar,31,24,4011.3,129.4,NS,41
+6,Camarão Express,Gastronomia,45,36,3983.82,88.53,NS,42
+6,Kings,Moda,6,3,3833.42,638.9,NS,43
+6,Chilli Beans,Ótica,6,6,3054.87,509.14,NS,44
+6,Mini Kalzone,Gastronomia,136,89,3048.5,22.42,NS,45
+6,Adcos,Beleza e Bem-estar,4,4,3026.96,756.74,NS,46
+6,Lupo,Moda,17,17,2957.55,173.97,NS,47
+6,Crocs,Calçados,10,10,2955.69,295.57,NS,48
+6,Me Linda,Farmácias,19,16,2927.1,154.06,NS,49
+6,Royal Trudel,Gastronomia,42,24,2847.49,67.8,NS,50
+6,Calvin Klein e Tommy Hilfiger,Moda,2,2,2815.0,1407.5,NS,51
+6,Lojas Americanas,Supermercado,25,20,2738.55,109.54,NS,52
+6,Burger King,Gastronomia,48,39,2704.7,56.35,NS,53
+6,Havaianas,Calçados,25,23,2431.62,97.26,NS,54
+6,z Kfc,Gastronomia,51,40,2294.89,45.0,NS,55
+6,Outback SteakHouse,Gastronomia,11,11,2212.99,201.18,NS,56
+6,Ophicina Foot Wear,Não informado,2,2,2199.0,1099.5,NS,57
+6,World Tennis,Calçados,5,5,2159.92,431.98,NS,58
+6,Uebel Make Up,Beleza e Bem-estar,14,11,2106.08,150.43,NS,59
+6,Mar de Maria,Moda,13,11,2047.91,157.53,NS,60
+6,Fátima Bebê,Infantil,10,8,2030.6,203.06,NS,61
+6,Tigre Maníacos,Esportes,8,7,2020.91,252.61,NS,62
+6,Ri Happy Baby,Infantil,15,14,1977.62,131.84,NS,63
+6,Santo Boteco,Gastronomia,25,15,1894.24,75.77,NS,64
+6,Natura,Beleza e Bem-estar,17,17,1833.08,107.83,NS,65
+6,Officina Gelatiera,Gastronomia,29,19,1804.15,62.21,NS,66
+6,Griletto,Gastronomia,26,23,1782.0,68.54,NS,67
 6,Casa Maria,Casa e Decoração,25,25,1670.34,66.81,NS,68
 6,Pandora,Joalheria,3,3,1599.0,533.0,NS,69
 6,Villa,Moda,5,5,1540.37,308.07,NS,70
 6,Mamma Mia Galeto,Gastronomia,7,7,1499.41,214.2,NS,71
 6,Me.Linda,Beleza e Bem-estar,10,8,1483.14,148.31,NS,72
-6,Cantinho Grill,Gastronomia,20,13,1364.1,68.2,NS,73
-6,Lug's,Gastronomia,25,16,1252.15,50.09,NS,74
-6,Mundo Geek,Outros,8,8,1127.4,140.93,NS,75
-6,Farm,Moda,3,3,1068.5,356.17,NS,76
-6,Polo Wear,Moda,8,8,1060.78,132.6,NS,77
-6,Donna Mirô,Gastronomia,21,12,990.27,47.16,NS,78
-6,Essence Parfums,Beleza e Bem-estar,1,1,839.37,839.37,NS,79
-6,Subway,Gastronomia,14,12,764.2,54.59,NS,80
-6,JAH Açaí,Gastronomia,26,19,743.7,28.6,NS,81
-6,Baummer,Joalheria,6,6,719.21,119.87,NS,82
-6,Via Pian Food,Gastronomia,12,9,704.19,58.68,NS,83
-6,Fátima Papelaria,Papelaria,19,16,668.3,35.17,NS,84
-6,Kitsu Box,Gastronomia,6,6,647.0,107.83,NS,85
-6,z Bob's - Quiosque 2,Gastronomia,18,17,618.7,34.37,NS,86
-6,Gnc Cinemas,Lazer,11,10,583.5,53.05,NS,87
-6,Panda Sushi,Gastronomia,8,8,439.94,54.99,NS,88
-6,Milkymoo,Gastronomia - Sorvetes,11,9,379.0,34.45,NS,89
-6,O Boticário,Beleza e Bem-estar,2,2,331.8,165.9,NS,90
-6,Milky Moo - Quiosque,Gastronomia,10,5,258.0,25.8,NS,91
-6,St.Chicken,Gastronomia,3,3,232.8,77.6,NS,92
-6,Gio Gelato Sorveteria Italiana Artesanal,Não informado,7,4,220.5,31.5,NS,93
-6,Fábrica Di Chocolate,Gastronomia,2,1,214.71,107.35,NS,94
-6,Café Cultura,Gastronomia,5,5,198.0,39.6,NS,95
-6,Chef's & Fritas,Gastronomia,2,2,182.0,91.0,NS,96
-6,Fini,Gastronomia,7,4,93.32,13.33,NS,97
-6,Geror,Ótica,1,1,89.9,89.9,NS,98
-6,Panda Café & Chá Mix,Gastronomia,2,2,48.5,24.25,NS,99
-6,Estacionamento - Nações Shopping,Serviços,2,2,44.0,22.0,NS,100
-6,Tabacaria El Patrono,Presentes e Acessórios,1,1,39.9,39.9,NS,101
-6,Le Charbon Crepes e Café,Gastronomia,2,2,39.0,19.5,NS,102
-6,Big Jack Cervejaria,Gastronomia,2,2,34.0,17.0,NS,103
-6,Drive Kids,Lazer,1,1,30.0,30.0,NS,104
-6,Chope do Mestre,Gastronomia,2,1,16.0,8.0,NS,105
+6,Cantinho Grill,Gastronomia,21,14,1399.0,66.62,NS,73
+6,Ótica Chilli Beans,Ótica,2,1,1359.92,679.96,NS,74
+6,Lug's,Gastronomia,26,17,1349.13,51.89,NS,75
+6,Fátima Papelaria,Papelaria,21,17,1195.3,56.92,NS,76
+6,Mundo Geek,Outros,8,8,1127.4,140.93,NS,77
+6,Farm,Moda,3,3,1068.5,356.17,NS,78
+6,Polo Wear,Moda,8,8,1060.78,132.6,NS,79
+6,Donna Mirô,Gastronomia,21,12,990.27,47.16,NS,80
+6,JAH Açaí,Gastronomia,27,20,950.7,35.21,NS,81
+6,Essence Parfums,Beleza e Bem-estar,1,1,839.37,839.37,NS,82
+6,Subway,Gastronomia,15,13,828.6,55.24,NS,83
+6,Via Pian Food,Gastronomia,14,10,814.65,58.19,NS,84
+6,z Bob's - Quiosque 2,Gastronomia,20,19,732.7,36.64,NS,85
+6,Baummer,Joalheria,6,6,719.21,119.87,NS,86
+6,Kitsu Box,Gastronomia,6,6,647.0,107.83,NS,87
+6,Gnc Cinemas,Lazer,11,10,583.5,53.05,NS,88
+6,Panda Sushi,Gastronomia,8,8,439.94,54.99,NS,89
+6,Milkymoo,Gastronomia - Sorvetes,11,9,379.0,34.45,NS,90
+6,O Boticário,Beleza e Bem-estar,2,2,331.8,165.9,NS,91
+6,Fábrica Di Chocolate,Gastronomia,3,2,321.24,107.08,NS,92
+6,Milky Moo - Quiosque,Gastronomia,10,5,258.0,25.8,NS,93
+6,Maxmuscle,Esportes,1,1,237.0,237.0,NS,94
+6,St.Chicken,Gastronomia,3,3,232.8,77.6,NS,95
+6,Gio Gelato Sorveteria Italiana Artesanal,Não informado,7,4,220.5,31.5,NS,96
+6,Café Cultura,Gastronomia,5,5,198.0,39.6,NS,97
+6,Chef's & Fritas,Gastronomia,2,2,182.0,91.0,NS,98
+6,Fini,Gastronomia,7,4,93.32,13.33,NS,99
+6,Geror,Ótica,1,1,89.9,89.9,NS,100
+6,Panda Café & Chá Mix,Gastronomia,2,2,48.5,24.25,NS,101
+6,Estacionamento - Nações Shopping,Serviços,2,2,44.0,22.0,NS,102
+6,Tabacaria El Patrono,Presentes e Acessórios,1,1,39.9,39.9,NS,103
+6,Le Charbon Crepes e Café,Gastronomia,2,2,39.0,19.5,NS,104
+6,Big Jack Cervejaria,Gastronomia,2,2,34.0,17.0,NS,105
+6,Drive Kids,Lazer,1,1,30.0,30.0,NS,106
+6,Chope do Mestre,Gastronomia,2,1,16.0,8.0,NS,107
