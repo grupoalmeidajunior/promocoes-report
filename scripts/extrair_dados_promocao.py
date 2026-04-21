@@ -23,6 +23,12 @@ SHOPPING_FULL = {
     4: "Norte Shopping", 5: "Garten Shopping", 6: "Nacoes Shopping",
 }
 
+# Override manual da data_inicio por promo_id (YYYY-MM-DD).
+# Necessario quando o registro em BRZ_AJFANS_PROMOCAO e alterado no backend
+# apos o lancamento da promo (ex.: iPhone 17 teve data_inicio mudada de
+# 2026-03-19 para 2026-04-16 em ~16/04, descartando 4 semanas de historico).
+PROMO_INICIO_OVERRIDE = {1: "2026-03-19"}
+
 
 def carregar_chave_privada(key_path):
     with open(key_path, "rb") as f:
@@ -106,10 +112,22 @@ def main():
         promo_sorteio = pd.to_datetime(promo["data_sorteio"]).tz_localize(None).normalize()
         pontos_necessarios = int(promo["pontos_necessarios"])
 
+        if promo_id in PROMO_INICIO_OVERRIDE:
+            override = pd.to_datetime(PROMO_INICIO_OVERRIDE[promo_id]).normalize()
+            if override != promo_inicio:
+                print(f"[WARN] data_inicio do backend ({promo_inicio.date()}) "
+                      f"substituida pelo override ({override.date()})")
+                promo_inicio = override
+
         print(f"  Promocao: {promo_titulo} (ID={promo_id})")
         print(f"  Periodo: {promo_inicio.date()} a {promo_fim.date()}")
         print(f"  Sorteio: {promo_sorteio.date()}")
         print(f"  Pontos por numero: {pontos_necessarios}")
+
+        # data_ate = min(ontem, fim_da_promo): apos o termino,
+        # a janela para em promo_fim 23:59:59 (cupons enviados depois
+        # nao fazem parte da promocao, mesmo que sejam validados).
+        data_ate = str(min(date.today() - timedelta(days=1), promo_fim.date()))
 
         # Salvar info da promo
         promo_info = {
@@ -120,15 +138,14 @@ def main():
             "data_sorteio": str(promo_sorteio.date()),
             "pontos_por_numero": pontos_necessarios,
             "atualizado_em": datetime.now().strftime("%Y-%m-%d %H:%M"),
-            "dados_ate": str((date.today() - timedelta(days=1))) + " (final do dia)",
+            "dados_ate": f"{data_ate} (final do dia)",
         }
         with open(os.path.join(dados_dir, "promocao_info.json"), "w", encoding="utf-8") as f:
             json.dump(promo_info, f, ensure_ascii=False, indent=2)
 
         # ============================================================
-        # 2. Cupons no periodo da promocao (dados ate ontem)
+        # 2. Cupons no periodo da promocao
         # ============================================================
-        data_ate = str(date.today() - timedelta(days=1))
 
         df_cupons = query_to_df(cur, f"""
             SELECT
@@ -144,7 +161,7 @@ def main():
                 fc.status
             FROM BRONZE.BRZ_AJFANS_FIDELIDADE_CUPOM fc
             LEFT JOIN BRONZE.BRZ_AJFANS_SHOPPING s ON s.id = fc.shopping_id
-            INNER JOIN (
+            LEFT JOIN (
                 SELECT cnpj, MAX(nome) AS nome, MAX(segmento) AS segmento
                 FROM BRONZE.BRZ_AJFANS_SHOPPING_LOJA
                 WHERE cnpj IS NOT NULL AND cnpj <> ''

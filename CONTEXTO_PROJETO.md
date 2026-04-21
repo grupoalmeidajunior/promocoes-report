@@ -115,3 +115,32 @@ CS - BS - NK - NR - GS - NS - TOTAL
 - Testar workflow via `workflow_dispatch`
 - Rodar extração após instalar runner para atualizar `dados_ate` com "(final do dia)"
 - Definir cron schedule no workflow
+
+## Sessão 21/04/2026 — Correção de valores do dashboard
+
+Dashboard vinha mostrando **30.224 cupons / R$ 7,25 M** quando os valores reais da promoção são **40.064 cupons / R$ 10,03 M**. Três causas somadas:
+
+### Problemas corrigidos
+
+1. **Extração parada desde 13/04** — user `NICHOLASMACHADO` foi desabilitado no Snowflake. Trocado para `SVC_DASHBOARDS_AJFANS` (service account com mesma chave RSA) em `scripts/config_snowflake.ini`.
+
+2. **INNER JOIN descartava cupons** — a query de cupons fazia `INNER JOIN` com `BRZ_AJFANS_SHOPPING_LOJA` pelo CNPJ, descartando cupons cujo CNPJ não estava cadastrado. Impacto: 79 cupons / R$ 7.234 (77 deles em NS). Trocado para `LEFT JOIN`.
+
+3. **`data_ate` avançava após fim da promo** — `data_ate = date.today() - 1` ia além de `promo_fim`. Corrigido para `min(ontem, promo_fim.date())`, e o rótulo `dados_ate` no `promocao_info.json` passa a refletir isso.
+
+4. **`data_inicio` alterada no backend em 16/04** — alguém mudou o registro em `BRZ_AJFANS_PROMOCAO` de `2026-03-19` para `2026-04-16`, o que descartava 4 semanas de histórico. Adicionado override explícito no script para blindar contra isso:
+   ```python
+   PROMO_INICIO_OVERRIDE = {1: "2026-03-19"}  # promo_id: data
+   ```
+
+### Resultado final (19/03 a 19/04 23:59:59)
+
+| Shopping | Cupons | Valor | Clientes |
+|----------|-------:|------:|---------:|
+| CS | 9.635 | R$ 2.050.338,32 | 2.282 |
+| BS | 6.221 | R$ 2.384.974,09 | 1.823 |
+| NK | 9.861 | R$ 2.419.450,15 | 2.327 |
+| NR | 5.303 | R$ 932.422,40 | 1.227 |
+| GS | 5.125 | R$ 1.210.212,77 | 1.375 |
+| NS | 3.919 | R$ 1.032.365,42 | 1.188 |
+| **TOTAL** | **40.064** | **R$ 10.029.763,15** | **9.836** |
