@@ -4,7 +4,7 @@
 Dashboard Streamlit para acompanhamento em tempo real de promoções dos shoppings Almeida Junior.
 Extrai dados do Snowflake (camada Bronze) e apresenta KPIs, séries temporais, resgates de pontos e validação de integridade.
 
-**Repositório:** https://github.com/carlosgravi/promocoes-report
+**Repositório:** https://github.com/grupoalmeidajunior/promocoes-report
 **Deploy:** Streamlit Cloud
 **Porta local:** 8502
 
