@@ -188,7 +188,7 @@
 2,Outback Steakhouse,Gastronomia,75,55,19015.56,253.54,BS,41
 2,Camicado,Casa e Decoração,60,50,18786.15,313.1,BS,42
 2,Kopenhagen,Gastronomia,85,60,18403.42,216.51,BS,43
-2,Madero,Gastronomia,101,85,17768.6,175.93,BS,44
+2,Madero,Gastronomia,102,86,17803.6,174.55,BS,44
 2,Hope,Moda,52,49,17622.33,338.89,BS,45
 2,Lua Luá,Moda,34,27,17349.3,510.27,BS,46
 2,Ri Happy,Infantil,80,67,16776.27,209.7,BS,47
@@ -566,9 +566,9 @@
 5,Bagaggio,Presentes e Acessórios,24,19,11745.47,489.39,GS,34
 5,Live!,Moda,16,15,11603.48,725.22,GS,35
 5,Madero,Gastronomia,67,49,11145.46,166.35,GS,36
-5,Calvin Klein,Moda,11,11,10843.9,985.81,GS,37
-5,Leo Cosméticos,Beleza e Bem-estar,167,144,10738.01,64.3,GS,38
-5,SAINT GERMAIN STORE,Joalheria,15,7,10598.7,706.58,GS,39
+5,SAINT GERMAIN STORE,Joalheria,16,8,11043.5,690.22,GS,37
+5,Calvin Klein,Moda,11,11,10843.9,985.81,GS,38
+5,Leo Cosméticos,Beleza e Bem-estar,167,144,10738.01,64.3,GS,39
 5,Chuá Brand,Moda,8,7,10374.99,1296.87,GS,40
 5,JCanedo,Moda,15,12,10371.99,691.47,GS,41
 5,Ri Happy,Infantil,66,49,10151.46,153.81,GS,42
@@ -581,7 +581,7 @@
 5,Democrata,Calçados,23,18,8561.2,372.23,GS,49
 5,HOPE Moda íntima,Moda Feminina,29,28,8221.71,283.51,GS,50
 5,OJO Sol & Grau,Ótica,6,5,7721.0,1286.83,GS,51
-5,Mamma Mia,Gastronomia,32,29,7605.4,237.67,GS,52
+5,Mamma Mia,Gastronomia,33,30,7685.7,232.9,GS,52
 5,Samsung,Eletrônicos,3,2,7605.0,2535.0,GS,53
 5,Mini Kalzone,Gastronomia,313,118,7551.2,24.13,GS,54
 5,Anacapri,Calçados Femininos,31,29,7213.65,232.7,GS,55
@@ -658,7 +658,7 @@
 5,Avatim Cheiros Da Terra,Presentes e Acessórios,2,2,99.0,49.5,GS,126
 5,McDonald's,Gastronomia,2,2,97.5,48.75,GS,127
 5,Tabacaria E Presentes Trevo,Serviços,1,1,89.9,89.9,GS,128
-6,Renner,Moda,360,278,109340.15,303.72,NS,1
+6,Renner,Moda,360,278,109340.25,303.72,NS,1
 6,Las Leñas Parrilla Uruguaya,Gastronomia,218,14,64812.5,297.31,NS,2
 6,Samsung,Eletrônicos,16,5,57612.5,3600.78,NS,3
 6,Colcci,Moda,46,22,55346.65,1203.19,NS,4
@@ -668,7 +668,7 @@
 6,Riachuelo,Moda,172,147,40706.94,236.67,NS,8
 6,Luz da Lua,Calçados Femininos,27,25,26914.8,996.84,NS,9
 6,Cassol Centerlar,Casa e Decoração,67,47,26282.58,392.28,NS,10
-6,Cobasi,Pets,152,105,21335.77,140.37,NS,11
+6,Cobasi,Pets,153,105,21398.97,139.86,NS,11
 6,Békko,Moda,21,20,18592.8,885.37,NS,12
 6,Aramis,Moda,18,15,17932.32,996.24,NS,13
 6,Tokaia,Moda,6,5,17886.0,2981.0,NS,14
@@ -704,8 +704,8 @@
 6,Lupo,Moda,36,32,6184.55,171.79,NS,44
 6,GrandVision by Fototica,Ótica,4,4,5962.75,1490.69,NS,45
 6,Calvin Klein e Tommy Hilfiger,Moda,8,7,5769.0,721.12,NS,46
-6,Camarão Express,Gastronomia,63,47,5443.12,86.4,NS,47
-6,Outback SteakHouse,Gastronomia,27,25,5164.84,191.29,NS,48
+6,Outback SteakHouse,Gastronomia,27,25,5704.01,211.26,NS,47
+6,Camarão Express,Gastronomia,63,47,5443.12,86.4,NS,48
 6,Santo Boteco,Gastronomia,42,24,4601.86,109.57,NS,49
 6,Mini Kalzone,Gastronomia,197,124,4469.8,22.69,NS,50
 6,Grandvision By Fototica,Gastronomia - Restaurante,3,2,4435.0,1478.33,NS,51
