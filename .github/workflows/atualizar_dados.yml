@@ -85,14 +85,13 @@ jobs:
             echo "- **Dados ate:** $(python3 -c 'import json; d=json.load(open("dados/promocao_info.json")); print(d["dados_ate"])')" >> $GITHUB_STEP_SUMMARY
           fi
 
-  notificar-whatsapp:
-    runs-on: self-hosted
+  notificar-teams:
+    runs-on: ubuntu-latest
     needs: atualizar-dados
     if: always()
 
     env:
-      WA_GATEWAY_URL: "http://localhost:3001"
-      WA_GROUP_ID: "120363408855201409@g.us"
+      TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
 
     steps:
       - name: Checkout repositorio
@@ -104,25 +103,22 @@ jobs:
           python-version: ${{ env.PYTHON_VERSION }}
 
       - name: Instalar requests
-        shell: powershell
         run: pip install requests
 
       - name: Notificar sucesso
         if: needs.atualizar-dados.result == 'success'
-        shell: powershell
         run: |
-          $detalhes = ""
-          if (Test-Path "dados/promocao_info.json") {
-            $info = Get-Content "dados/promocao_info.json" | ConvertFrom-Json
-            $detalhes = "Dados ate $($info.dados_ate)"
-          }
-          if ($detalhes) {
-            python scripts/notificar_whatsapp.py --dashboard "Promocoes Report" --status sucesso --detalhes $detalhes
-          } else {
-            python scripts/notificar_whatsapp.py --dashboard "Promocoes Report" --status sucesso
-          }
+          DETALHES=""
+          if [ -f "dados/promocao_info.json" ]; then
+            DATA_ATE=$(python3 -c 'import json; d=json.load(open("dados/promocao_info.json")); print(d["dados_ate"])')
+            DETALHES="Dados ate $DATA_ATE"
+          fi
+          if [ -n "$DETALHES" ]; then
+            python scripts/notificar_teams.py --dashboard "Promocoes Report" --status sucesso --detalhes "$DETALHES"
+          else
+            python scripts/notificar_teams.py --dashboard "Promocoes Report" --status sucesso
+          fi
 
       - name: Notificar erro
         if: needs.atualizar-dados.result == 'failure'
-        shell: powershell
-        run: python scripts/notificar_whatsapp.py --dashboard "Promocoes Report" --status erro
+        run: python scripts/notificar_teams.py --dashboard "Promocoes Report" --status erro
