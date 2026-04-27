@@ -151,8 +151,8 @@
 1,50878192000101,Antonio's Boliche,Lazer,ATIVO,2026-03-23 08:17:07,,0,0,0.0,CS,False,False
 1,76381169000443,CVC,Serviços,ATIVO,2026-03-20 11:27:38,,0,0,0.0,CS,False,False
 1,65680540000109,Casa do Celular,Eletrônicos,ATIVO,2026-04-17 12:37:06,,0,0,0.0,CS,False,False
-1,15833712000169,Chilli Beans,Ótica,ATIVO,2026-03-23 08:50:02,,0,0,0.0,CS,False,False
 1,62405757000112,Chilli Beans,Ótica,INATIVO,2026-03-20 09:49:50,,0,0,0.0,CS,False,True
+1,15833712000169,Chilli Beans,Ótica,ATIVO,2026-03-23 08:50:02,,0,0,0.0,CS,False,False
 1,62405753000134,Chilli Beans Ótica,Ótica,INATIVO,2026-03-20 09:50:17,,0,0,0.0,CS,False,True
 1,52580104000205,Divert Park,Lazer,ATIVO,2026-03-20 11:29:52,,0,0,0.0,CS,False,False
 1,26585335000102,Drive Kids,Lazer,ATIVO,2024-12-11 21:21:55,,0,0,0.0,CS,False,False
@@ -601,8 +601,8 @@
 4,31324392003517,Botoclinic,Beleza e Bem-estar,ATIVO,2026-03-20 14:29:31,,0,0,0.0,NR,False,False
 4,54879562000186,Brando Bike,Outros,ATIVO,2024-12-11 21:24:23,,0,0,0.0,NR,False,False
 4,56973880000137,Brasileirisse,Gastronomia,ATIVO,2026-03-23 08:02:56,,0,0,0.0,NR,False,False
-4,76381169000443,CVC,Lazer,ATIVO,2026-03-19 08:06:20,,0,0,0.0,NR,False,False
 4,51122965000198,CVC,Serviços,ATIVO,2024-12-11 21:24:23,,0,0,0.0,NR,False,False
+4,76381169000443,CVC,Lazer,ATIVO,2026-03-19 08:06:20,,0,0,0.0,NR,False,False
 4,28146213000145,Chilli Beans,Ótica,ATIVO,2024-12-11 21:24:23,,0,0,0.0,NR,False,False
 4,40432544036508,Claro,Telefonia,ATIVO,2024-12-11 21:24:23,,0,0,0.0,NR,False,False
 4,23681050000187,Estacionamento Norte Shopping,Não informado,ATIVO,2025-11-10 11:54:16,,0,0,0.0,NR,False,False
@@ -877,8 +877,8 @@
 6,34216722000108,Tabacaria El Patrono,Presentes e Acessórios,ATIVO,2026-03-20 14:29:31,,1,1,39.9,NS,True,False
 6,26585335000102,Drive Kids,Lazer,ATIVO,2024-12-11 21:24:25,,1,1,30.0,NS,True,False
 6,49039419000146,Chope do Mestre,Gastronomia,ATIVO,2026-03-20 14:29:31,,2,1,16.0,NS,True,False
-6,51589366000189,Antonio's Boliche,Gastronomia - Sorvetes,INATIVO,2026-03-20 14:29:31,,0,0,0.0,NS,False,True
 6,50878192000101,Antonio's Boliche,Lazer,ATIVO,2026-03-24 14:07:04,,0,0,0.0,NS,False,False
+6,51589366000189,Antonio's Boliche,Gastronomia - Sorvetes,INATIVO,2026-03-20 14:29:31,,0,0,0.0,NS,False,True
 6,20477705000373,Cases e Capas,Presentes e Acessórios,ATIVO,2026-03-20 14:29:31,,0,0,0.0,NS,False,False
 6,57260323000131,Dez Pastéis,Gastronomia,INATIVO,2026-03-20 06:35:20,,0,0,0.0,NS,False,True
 6,13199605000286,Don Pettine,Salão de Beleza | Barbearia,ATIVO,2024-12-11 21:24:25,,0,0,0.0,NS,False,False
