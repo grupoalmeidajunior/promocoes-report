@@ -322,7 +322,7 @@
 2,Milky moo,Gastronomia,3,3,167.0,55.67,BS,175
 2,Juistreet,Gastronomia,5,4,162.7,32.54,BS,176
 2,Roasted Potato & Suco Bagaço,Gastronomia,13,11,122.0,9.38,BS,177
-3,Renner,Moda,635,455,179166.16,282.15,NK,1
+3,Renner,Moda,636,456,179326.06,281.96,NK,1
 3,Shoulder,Moda Feminina,89,74,113382.19,1273.96,NK,2
 3,Centauro,Esportes,249,206,96469.24,387.43,NK,3
 3,Vivara,Joalheria,45,43,91087.0,2024.16,NK,4
@@ -365,9 +365,9 @@
 3,Bagaggio,Presentes e Acessórios,27,23,19910.71,737.43,NK,41
 3,Sinhá Benta Gourmet,Gastronomia,248,131,19684.63,79.37,NK,42
 3,Farm,Moda Feminina,40,35,19644.55,491.11,NK,43
-3,GrandVision by Fototica,Ótica,10,5,17663.8,1766.38,NK,44
-3,Vivo,Telefonia,4,3,17506.6,4376.65,NK,45
-3,Life by Vivara,Joalheria,32,29,16562.05,517.56,NK,46
+3,Life by Vivara,Joalheria,32,29,18190.42,568.45,NK,44
+3,GrandVision by Fototica,Ótica,10,5,17663.8,1766.38,NK,45
+3,Vivo,Telefonia,4,3,17506.6,4376.65,NK,46
 3,Game Mania,Eletrônicos,6,6,16471.58,2745.26,NK,47
 3,Bottero,Calçados,26,26,16009.33,615.74,NK,48
 3,Tommy Hilfiger,Moda,25,24,15343.05,613.72,NK,49
@@ -405,14 +405,14 @@
 3,General Lyy,Moda,24,21,6810.32,283.76,NK,81
 3,Authentic Feet,Moda,10,10,5980.41,598.04,NK,82
 3,Due Sapori,Gastronomia,101,62,5936.29,58.78,NK,83
-3,Burger King,Gastronomia,98,75,5630.24,57.45,NK,84
-3,Victor Hugo,Presentes e Acessórios,2,2,5561.99,2781.0,NK,85
-3,Usaflex,Calçados,15,15,5557.85,370.52,NK,86
-3,O Boticário,Beleza e Bem-estar,43,38,5465.07,127.09,NK,87
-3,Claro,Telefonia,3,2,5236.0,1745.33,NK,88
-3,Freddo,Gastronomia,127,91,5225.0,41.14,NK,89
-3,Empório DUHomem,Moda,11,11,5223.6,474.87,NK,90
-3,Reserva,Moda,12,12,5190.0,432.5,NK,91
+3,Reserva,Moda,13,13,5759.0,443.0,NK,84
+3,Burger King,Gastronomia,98,75,5630.24,57.45,NK,85
+3,Victor Hugo,Presentes e Acessórios,2,2,5561.99,2781.0,NK,86
+3,Usaflex,Calçados,15,15,5557.85,370.52,NK,87
+3,O Boticário,Beleza e Bem-estar,43,38,5465.07,127.09,NK,88
+3,Claro,Telefonia,3,2,5236.0,1745.33,NK,89
+3,Freddo,Gastronomia,127,91,5225.0,41.14,NK,90
+3,Empório DUHomem,Moda,11,11,5223.6,474.87,NK,91
 3,Daniela Tombini,Moda,13,7,4954.14,381.09,NK,92
 3,BioMundo Produtos Naturais,Beleza e Bem-estar,33,32,4885.44,148.04,NK,93
 3,Calzedonia,Moda Feminina,21,18,4767.55,227.03,NK,94
@@ -578,7 +578,7 @@
 5,Damyller,Moda,15,15,9675.0,645.0,GS,47
 5,Kings Sneakers,Moda,9,8,9141.24,1015.69,GS,48
 5,Democrata,Calçados,23,18,8561.2,372.23,GS,49
-5,HOPE Moda íntima,Moda Feminina,29,28,8221.71,283.51,GS,50
+5,HOPE,Moda Feminina,29,28,8221.71,283.51,GS,50
 5,OJO Sol & Grau,Ótica,6,5,7721.0,1286.83,GS,51
 5,Mamma Mia,Gastronomia,33,30,7685.7,232.9,GS,52
 5,Samsung,Eletrônicos,3,2,7605.0,2535.0,GS,53
